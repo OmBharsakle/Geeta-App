@@ -2,6 +2,11 @@
 
 ###
 
+Geeta App 📖✨
+
+A comprehensive mobile application that offers the teachings of the Bhagavad Gita with a user-friendly interface. This project is developed using C++, Dart, and Swift, providing a rich and accessible spiritual learning experience. Key features include structured chapters and verses, audio explanations, and multi-language support. The repository includes essential libraries for functionality and cross-platform compatibility.
+
+
 <h1></h1>
 
 <div align="center">
