@@ -22,6 +22,7 @@ class _SlapshScreenState extends State<SlapshScreen> {
       );
     });
     return Scaffold(
+
       body: Container(
         decoration: BoxDecoration(
           image: DecorationImage(image: AssetImage('assets/chapterImage/Slash.jpeg'),fit: BoxFit.cover)

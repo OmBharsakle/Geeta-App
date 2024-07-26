@@ -1,0 +1,2360 @@
+{
+    "assets/a_11.webp": [
+        "assets/a_11.webp"
+    ],
+    "assets/animation/live.json": [
+        "assets/animation/live.json"
+    ],
+    "assets/animation/mala.json": [
+        "assets/animation/mala.json"
+    ],
+    "assets/animation/update.json": [
+        "assets/animation/update.json"
+    ],
+    "assets/audio/jsr_f.mp3": [
+        "assets/audio/jsr_f.mp3"
+    ],
+    "assets/audio/jsr_m.mp3": [
+        "assets/audio/jsr_m.mp3"
+    ],
+    "assets/audio/mp3jsk.mp3": [
+        "assets/audio/mp3jsk.mp3"
+    ],
+    "assets/audio/ohhn_f.mp3": [
+        "assets/audio/ohhn_f.mp3"
+    ],
+    "assets/audio/ohhn_m.mp3": [
+        "assets/audio/ohhn_m.mp3"
+    ],
+    "assets/audio/ons_f.mp3": [
+        "assets/audio/ons_f.mp3"
+    ],
+    "assets/audio/ons_m.mp3": [
+        "assets/audio/ons_m.mp3"
+    ],
+    "assets/audio/radhe.mp3": [
+        "assets/audio/radhe.mp3"
+    ],
+    "assets/audio/radhe_f.mp3": [
+        "assets/audio/radhe_f.mp3"
+    ],
+    "assets/audio/radhe_m.mp3": [
+        "assets/audio/radhe_m.mp3"
+    ],
+    "assets/audio/sgn_f.mp3": [
+        "assets/audio/sgn_f.mp3"
+    ],
+    "assets/audio/sgn_m.mp3": [
+        "assets/audio/sgn_m.mp3"
+    ],
+    "assets/audio/sksm.mp3": [
+        "assets/audio/sksm.mp3"
+    ],
+    "assets/audio/sksm_f.mp3": [
+        "assets/audio/sksm_f.mp3"
+    ],
+    "assets/audio/sksm_m.mp3": [
+        "assets/audio/sksm_m.mp3"
+    ],
+    "assets/avtar/a_01.webp": [
+        "assets/avtar/a_01.webp"
+    ],
+    "assets/avtar/a_02.webp": [
+        "assets/avtar/a_02.webp"
+    ],
+    "assets/avtar/a_03.webp": [
+        "assets/avtar/a_03.webp"
+    ],
+    "assets/avtar/a_04.webp": [
+        "assets/avtar/a_04.webp"
+    ],
+    "assets/avtar/a_05.webp": [
+        "assets/avtar/a_05.webp"
+    ],
+    "assets/avtar/a_06.webp": [
+        "assets/avtar/a_06.webp"
+    ],
+    "assets/avtar/a_07.webp": [
+        "assets/avtar/a_07.webp"
+    ],
+    "assets/avtar/a_08.webp": [
+        "assets/avtar/a_08.webp"
+    ],
+    "assets/avtar/a_09.webp": [
+        "assets/avtar/a_09.webp"
+    ],
+    "assets/avtar/a_10.webp": [
+        "assets/avtar/a_10.webp"
+    ],
+    "assets/avtar/a_11.webp": [
+        "assets/avtar/a_11.webp"
+    ],
+    "assets/avtar/a_12.webp": [
+        "assets/avtar/a_12.webp"
+    ],
+    "assets/avtar/a_13.webp": [
+        "assets/avtar/a_13.webp"
+    ],
+    "assets/avtar/a_14.webp": [
+        "assets/avtar/a_14.webp"
+    ],
+    "assets/avtar/a_15.webp": [
+        "assets/avtar/a_15.webp"
+    ],
+    "assets/avtar/a_16.webp": [
+        "assets/avtar/a_16.webp"
+    ],
+    "assets/avtar/a_17.webp": [
+        "assets/avtar/a_17.webp"
+    ],
+    "assets/avtar/a_18.webp": [
+        "assets/avtar/a_18.webp"
+    ],
+    "assets/avtar/a_19.webp": [
+        "assets/avtar/a_19.webp"
+    ],
+    "assets/avtar/a_20.webp": [
+        "assets/avtar/a_20.webp"
+    ],
+    "assets/avtar/a_21.webp": [
+        "assets/avtar/a_21.webp"
+    ],
+    "assets/avtar/a_22.webp": [
+        "assets/avtar/a_22.webp"
+    ],
+    "assets/avtar/a_23.webp": [
+        "assets/avtar/a_23.webp"
+    ],
+    "assets/avtar/a_24.webp": [
+        "assets/avtar/a_24.webp"
+    ],
+    "assets/avtar/a_25.webp": [
+        "assets/avtar/a_25.webp"
+    ],
+    "assets/avtar/a_26.webp": [
+        "assets/avtar/a_26.webp"
+    ],
+    "assets/avtar/a_27.webp": [
+        "assets/avtar/a_27.webp"
+    ],
+    "assets/avtar/a_28.webp": [
+        "assets/avtar/a_28.webp"
+    ],
+    "assets/avtar/a_29.webp": [
+        "assets/avtar/a_29.webp"
+    ],
+    "assets/avtar/a_30.webp": [
+        "assets/avtar/a_30.webp"
+    ],
+    "assets/avtar/a_31.webp": [
+        "assets/avtar/a_31.webp"
+    ],
+    "assets/avtar/a_32.webp": [
+        "assets/avtar/a_32.webp"
+    ],
+    "assets/avtar/a_33.webp": [
+        "assets/avtar/a_33.webp"
+    ],
+    "assets/avtar/a_34.webp": [
+        "assets/avtar/a_34.webp"
+    ],
+    "assets/avtar/a_35.webp": [
+        "assets/avtar/a_35.webp"
+    ],
+    "assets/avtar/a_36.webp": [
+        "assets/avtar/a_36.webp"
+    ],
+    "assets/avtar/a_37.webp": [
+        "assets/avtar/a_37.webp"
+    ],
+    "assets/avtar/a_38.webp": [
+        "assets/avtar/a_38.webp"
+    ],
+    "assets/avtar/a_39.webp": [
+        "assets/avtar/a_39.webp"
+    ],
+    "assets/avtar/a_40.webp": [
+        "assets/avtar/a_40.webp"
+    ],
+    "assets/bg_chant.webp": [
+        "assets/bg_chant.webp"
+    ],
+    "assets/bg_mala.png": [
+        "assets/bg_mala.png"
+    ],
+    "assets/bookmark2.png": [
+        "assets/bookmark2.png"
+    ],
+    "assets/chapterImage/ch1.webp": [
+        "assets/chapterImage/ch1.webp"
+    ],
+    "assets/chapterImage/ch10.webp": [
+        "assets/chapterImage/ch10.webp"
+    ],
+    "assets/chapterImage/ch11.webp": [
+        "assets/chapterImage/ch11.webp"
+    ],
+    "assets/chapterImage/ch12.webp": [
+        "assets/chapterImage/ch12.webp"
+    ],
+    "assets/chapterImage/ch13.webp": [
+        "assets/chapterImage/ch13.webp"
+    ],
+    "assets/chapterImage/ch14.webp": [
+        "assets/chapterImage/ch14.webp"
+    ],
+    "assets/chapterImage/ch15.webp": [
+        "assets/chapterImage/ch15.webp"
+    ],
+    "assets/chapterImage/ch16.webp": [
+        "assets/chapterImage/ch16.webp"
+    ],
+    "assets/chapterImage/ch17.webp": [
+        "assets/chapterImage/ch17.webp"
+    ],
+    "assets/chapterImage/ch18.webp": [
+        "assets/chapterImage/ch18.webp"
+    ],
+    "assets/chapterImage/ch2.webp": [
+        "assets/chapterImage/ch2.webp"
+    ],
+    "assets/chapterImage/ch3.webp": [
+        "assets/chapterImage/ch3.webp"
+    ],
+    "assets/chapterImage/ch4.webp": [
+        "assets/chapterImage/ch4.webp"
+    ],
+    "assets/chapterImage/ch5.webp": [
+        "assets/chapterImage/ch5.webp"
+    ],
+    "assets/chapterImage/ch6.webp": [
+        "assets/chapterImage/ch6.webp"
+    ],
+    "assets/chapterImage/ch7.webp": [
+        "assets/chapterImage/ch7.webp"
+    ],
+    "assets/chapterImage/ch8.webp": [
+        "assets/chapterImage/ch8.webp"
+    ],
+    "assets/chapterImage/ch9.webp": [
+        "assets/chapterImage/ch9.webp"
+    ],
+    "assets/fonts/mallanna_regular.ttf": [
+        "assets/fonts/mallanna_regular.ttf"
+    ],
+    "assets/fonts/spectral_bold.ttf": [
+        "assets/fonts/spectral_bold.ttf"
+    ],
+    "assets/fonts/spectral_italic.ttf": [
+        "assets/fonts/spectral_italic.ttf"
+    ],
+    "assets/fonts/spectral_regular.ttf": [
+        "assets/fonts/spectral_regular.ttf"
+    ],
+    "assets/fonts/spectral_semi_bold_italic.ttf": [
+        "assets/fonts/spectral_semi_bold_italic.ttf"
+    ],
+    "assets/help/Anger.webp": [
+        "assets/help/Anger.webp"
+    ],
+    "assets/help/Confusion.webp": [
+        "assets/help/Confusion.webp"
+    ],
+    "assets/help/Dealing With Envy.webp": [
+        "assets/help/Dealing With Envy.webp"
+    ],
+    "assets/help/Death of a Loved One.webp": [
+        "assets/help/Death of a Loved One.webp"
+    ],
+    "assets/help/Demotivated.webp": [
+        "assets/help/Demotivated.webp"
+    ],
+    "assets/help/Depression.webp": [
+        "assets/help/Depression.webp"
+    ],
+    "assets/help/Discriminated.webp": [
+        "assets/help/Discriminated.webp"
+    ],
+    "assets/help/Fear.webp": [
+        "assets/help/Fear.webp"
+    ],
+    "assets/help/Feeling Sinful.webp": [
+        "assets/help/Feeling Sinful.webp"
+    ],
+    "assets/help/Forgetfulness.webp": [
+        "assets/help/Forgetfulness.webp"
+    ],
+    "assets/help/Greed.webp": [
+        "assets/help/Greed.webp"
+    ],
+    "assets/help/Laziness.webp": [
+        "assets/help/Laziness.webp"
+    ],
+    "assets/help/Loneliness.webp": [
+        "assets/help/Loneliness.webp"
+    ],
+    "assets/help/Losing Hope.webp": [
+        "assets/help/Losing Hope.webp"
+    ],
+    "assets/help/Lust.webp": [
+        "assets/help/Lust.webp"
+    ],
+    "assets/help/Practicing Forgiveness.webp": [
+        "assets/help/Practicing Forgiveness.webp"
+    ],
+    "assets/help/Pride.webp": [
+        "assets/help/Pride.webp"
+    ],
+    "assets/help/Seeking Peace.webp": [
+        "assets/help/Seeking Peace.webp"
+    ],
+    "assets/help/Temptation.webp": [
+        "assets/help/Temptation.webp"
+    ],
+    "assets/help/Uncontrolled Mind.webp": [
+        "assets/help/Uncontrolled Mind.webp"
+    ],
+    "assets/ic_auto_rotation.png": [
+        "assets/ic_auto_rotation.png"
+    ],
+    "assets/ic_banner_new.webp": [
+        "assets/ic_banner_new.webp"
+    ],
+    "assets/ic_bells.webp": [
+        "assets/ic_bells.webp"
+    ],
+    "assets/ic_chantno.webp": [
+        "assets/ic_chantno.webp"
+    ],
+    "assets/ic_chat.webp": [
+        "assets/ic_chat.webp"
+    ],
+    "assets/ic_conch_shell.png": [
+        "assets/ic_conch_shell.png"
+    ],
+    "assets/ic_crown.png": [
+        "assets/ic_crown.png"
+    ],
+    "assets/ic_delete.webp": [
+        "assets/ic_delete.webp"
+    ],
+    "assets/ic_facebook.webp": [
+        "assets/ic_facebook.webp"
+    ],
+    "assets/ic_fast.png": [
+        "assets/ic_fast.png"
+    ],
+    "assets/ic_instagram.webp": [
+        "assets/ic_instagram.webp"
+    ],
+    "assets/ic_join_team.webp": [
+        "assets/ic_join_team.webp"
+    ],
+    "assets/ic_logo.webp": [
+        "assets/ic_logo.webp"
+    ],
+    "assets/ic_malano.webp": [
+        "assets/ic_malano.webp"
+    ],
+    "assets/ic_mind2.webp": [
+        "assets/ic_mind2.webp"
+    ],
+    "assets/ic_music.webp": [
+        "assets/ic_music.webp"
+    ],
+    "assets/ic_paro1.webp": [
+        "assets/ic_paro1.webp"
+    ],
+    "assets/ic_paro2.webp": [
+        "assets/ic_paro2.webp"
+    ],
+    "assets/ic_paro3.webp": [
+        "assets/ic_paro3.webp"
+    ],
+    "assets/ic_paro4.webp": [
+        "assets/ic_paro4.webp"
+    ],
+    "assets/ic_paro5.webp": [
+        "assets/ic_paro5.webp"
+    ],
+    "assets/ic_paro6.webp": [
+        "assets/ic_paro6.webp"
+    ],
+    "assets/ic_paro7.webp": [
+        "assets/ic_paro7.webp"
+    ],
+    "assets/ic_play.png": [
+        "assets/ic_play.png"
+    ],
+    "assets/ic_share.webp": [
+        "assets/ic_share.webp"
+    ],
+    "assets/ic_shree.png": [
+        "assets/ic_shree.png"
+    ],
+    "assets/ic_slow.png": [
+        "assets/ic_slow.png"
+    ],
+    "assets/ic_stop.png": [
+        "assets/ic_stop.png"
+    ],
+    "assets/ic_temple_withkrishna.webp": [
+        "assets/ic_temple_withkrishna.webp"
+    ],
+    "assets/lrc/ch1/shloka1.lrc": [
+        "assets/lrc/ch1/shloka1.lrc"
+    ],
+    "assets/lrc/ch1/shloka10.lrc": [
+        "assets/lrc/ch1/shloka10.lrc"
+    ],
+    "assets/lrc/ch1/shloka11.lrc": [
+        "assets/lrc/ch1/shloka11.lrc"
+    ],
+    "assets/lrc/ch1/shloka12.lrc": [
+        "assets/lrc/ch1/shloka12.lrc"
+    ],
+    "assets/lrc/ch1/shloka13.lrc": [
+        "assets/lrc/ch1/shloka13.lrc"
+    ],
+    "assets/lrc/ch1/shloka14.lrc": [
+        "assets/lrc/ch1/shloka14.lrc"
+    ],
+    "assets/lrc/ch1/shloka15.lrc": [
+        "assets/lrc/ch1/shloka15.lrc"
+    ],
+    "assets/lrc/ch1/shloka16 - 18.lrc": [
+        "assets/lrc/ch1/shloka16 - 18.lrc"
+    ],
+    "assets/lrc/ch1/shloka19.lrc": [
+        "assets/lrc/ch1/shloka19.lrc"
+    ],
+    "assets/lrc/ch1/shloka2.lrc": [
+        "assets/lrc/ch1/shloka2.lrc"
+    ],
+    "assets/lrc/ch1/shloka20.lrc": [
+        "assets/lrc/ch1/shloka20.lrc"
+    ],
+    "assets/lrc/ch1/shloka21 - 22.lrc": [
+        "assets/lrc/ch1/shloka21 - 22.lrc"
+    ],
+    "assets/lrc/ch1/shloka23.lrc": [
+        "assets/lrc/ch1/shloka23.lrc"
+    ],
+    "assets/lrc/ch1/shloka24.lrc": [
+        "assets/lrc/ch1/shloka24.lrc"
+    ],
+    "assets/lrc/ch1/shloka25.lrc": [
+        "assets/lrc/ch1/shloka25.lrc"
+    ],
+    "assets/lrc/ch1/shloka26.lrc": [
+        "assets/lrc/ch1/shloka26.lrc"
+    ],
+    "assets/lrc/ch1/shloka27.lrc": [
+        "assets/lrc/ch1/shloka27.lrc"
+    ],
+    "assets/lrc/ch1/shloka28.lrc": [
+        "assets/lrc/ch1/shloka28.lrc"
+    ],
+    "assets/lrc/ch1/shloka29 - 31.lrc": [
+        "assets/lrc/ch1/shloka29 - 31.lrc"
+    ],
+    "assets/lrc/ch1/shloka3.lrc": [
+        "assets/lrc/ch1/shloka3.lrc"
+    ],
+    "assets/lrc/ch1/shloka32 - 33.lrc": [
+        "assets/lrc/ch1/shloka32 - 33.lrc"
+    ],
+    "assets/lrc/ch1/shloka34 - 35.lrc": [
+        "assets/lrc/ch1/shloka34 - 35.lrc"
+    ],
+    "assets/lrc/ch1/shloka36 - 37.lrc": [
+        "assets/lrc/ch1/shloka36 - 37.lrc"
+    ],
+    "assets/lrc/ch1/shloka38 - 39.lrc": [
+        "assets/lrc/ch1/shloka38 - 39.lrc"
+    ],
+    "assets/lrc/ch1/shloka4 - 6.lrc": [
+        "assets/lrc/ch1/shloka4 - 6.lrc"
+    ],
+    "assets/lrc/ch1/shloka40.lrc": [
+        "assets/lrc/ch1/shloka40.lrc"
+    ],
+    "assets/lrc/ch1/shloka41.lrc": [
+        "assets/lrc/ch1/shloka41.lrc"
+    ],
+    "assets/lrc/ch1/shloka42.lrc": [
+        "assets/lrc/ch1/shloka42.lrc"
+    ],
+    "assets/lrc/ch1/shloka43.lrc": [
+        "assets/lrc/ch1/shloka43.lrc"
+    ],
+    "assets/lrc/ch1/shloka44.lrc": [
+        "assets/lrc/ch1/shloka44.lrc"
+    ],
+    "assets/lrc/ch1/shloka45 - 46.lrc": [
+        "assets/lrc/ch1/shloka45 - 46.lrc"
+    ],
+    "assets/lrc/ch1/shloka47.lrc": [
+        "assets/lrc/ch1/shloka47.lrc"
+    ],
+    "assets/lrc/ch1/shloka7.lrc": [
+        "assets/lrc/ch1/shloka7.lrc"
+    ],
+    "assets/lrc/ch1/shloka8.lrc": [
+        "assets/lrc/ch1/shloka8.lrc"
+    ],
+    "assets/lrc/ch1/shloka9.lrc": [
+        "assets/lrc/ch1/shloka9.lrc"
+    ],
+    "assets/lrc/ch10/shloka1.lrc": [
+        "assets/lrc/ch10/shloka1.lrc"
+    ],
+    "assets/lrc/ch10/shloka10.lrc": [
+        "assets/lrc/ch10/shloka10.lrc"
+    ],
+    "assets/lrc/ch10/shloka11.lrc": [
+        "assets/lrc/ch10/shloka11.lrc"
+    ],
+    "assets/lrc/ch10/shloka12 - 13.lrc": [
+        "assets/lrc/ch10/shloka12 - 13.lrc"
+    ],
+    "assets/lrc/ch10/shloka14.lrc": [
+        "assets/lrc/ch10/shloka14.lrc"
+    ],
+    "assets/lrc/ch10/shloka15.lrc": [
+        "assets/lrc/ch10/shloka15.lrc"
+    ],
+    "assets/lrc/ch10/shloka16 - 17.lrc": [
+        "assets/lrc/ch10/shloka16 - 17.lrc"
+    ],
+    "assets/lrc/ch10/shloka18.lrc": [
+        "assets/lrc/ch10/shloka18.lrc"
+    ],
+    "assets/lrc/ch10/shloka19.lrc": [
+        "assets/lrc/ch10/shloka19.lrc"
+    ],
+    "assets/lrc/ch10/shloka2.lrc": [
+        "assets/lrc/ch10/shloka2.lrc"
+    ],
+    "assets/lrc/ch10/shloka20.lrc": [
+        "assets/lrc/ch10/shloka20.lrc"
+    ],
+    "assets/lrc/ch10/shloka21.lrc": [
+        "assets/lrc/ch10/shloka21.lrc"
+    ],
+    "assets/lrc/ch10/shloka22.lrc": [
+        "assets/lrc/ch10/shloka22.lrc"
+    ],
+    "assets/lrc/ch10/shloka23.lrc": [
+        "assets/lrc/ch10/shloka23.lrc"
+    ],
+    "assets/lrc/ch10/shloka24.lrc": [
+        "assets/lrc/ch10/shloka24.lrc"
+    ],
+    "assets/lrc/ch10/shloka25.lrc": [
+        "assets/lrc/ch10/shloka25.lrc"
+    ],
+    "assets/lrc/ch10/shloka26.lrc": [
+        "assets/lrc/ch10/shloka26.lrc"
+    ],
+    "assets/lrc/ch10/shloka27.lrc": [
+        "assets/lrc/ch10/shloka27.lrc"
+    ],
+    "assets/lrc/ch10/shloka28.lrc": [
+        "assets/lrc/ch10/shloka28.lrc"
+    ],
+    "assets/lrc/ch10/shloka29.lrc": [
+        "assets/lrc/ch10/shloka29.lrc"
+    ],
+    "assets/lrc/ch10/shloka3.lrc": [
+        "assets/lrc/ch10/shloka3.lrc"
+    ],
+    "assets/lrc/ch10/shloka30.lrc": [
+        "assets/lrc/ch10/shloka30.lrc"
+    ],
+    "assets/lrc/ch10/shloka31.lrc": [
+        "assets/lrc/ch10/shloka31.lrc"
+    ],
+    "assets/lrc/ch10/shloka32.lrc": [
+        "assets/lrc/ch10/shloka32.lrc"
+    ],
+    "assets/lrc/ch10/shloka33.lrc": [
+        "assets/lrc/ch10/shloka33.lrc"
+    ],
+    "assets/lrc/ch10/shloka34.lrc": [
+        "assets/lrc/ch10/shloka34.lrc"
+    ],
+    "assets/lrc/ch10/shloka35.lrc": [
+        "assets/lrc/ch10/shloka35.lrc"
+    ],
+    "assets/lrc/ch10/shloka36.lrc": [
+        "assets/lrc/ch10/shloka36.lrc"
+    ],
+    "assets/lrc/ch10/shloka37.lrc": [
+        "assets/lrc/ch10/shloka37.lrc"
+    ],
+    "assets/lrc/ch10/shloka38.lrc": [
+        "assets/lrc/ch10/shloka38.lrc"
+    ],
+    "assets/lrc/ch10/shloka39.lrc": [
+        "assets/lrc/ch10/shloka39.lrc"
+    ],
+    "assets/lrc/ch10/shloka4 - 5.lrc": [
+        "assets/lrc/ch10/shloka4 - 5.lrc"
+    ],
+    "assets/lrc/ch10/shloka40.lrc": [
+        "assets/lrc/ch10/shloka40.lrc"
+    ],
+    "assets/lrc/ch10/shloka41.lrc": [
+        "assets/lrc/ch10/shloka41.lrc"
+    ],
+    "assets/lrc/ch10/shloka42.lrc": [
+        "assets/lrc/ch10/shloka42.lrc"
+    ],
+    "assets/lrc/ch10/shloka6.lrc": [
+        "assets/lrc/ch10/shloka6.lrc"
+    ],
+    "assets/lrc/ch10/shloka7.lrc": [
+        "assets/lrc/ch10/shloka7.lrc"
+    ],
+    "assets/lrc/ch10/shloka8.lrc": [
+        "assets/lrc/ch10/shloka8.lrc"
+    ],
+    "assets/lrc/ch10/shloka9.lrc": [
+        "assets/lrc/ch10/shloka9.lrc"
+    ],
+    "assets/lrc/ch11/shloka1.lrc": [
+        "assets/lrc/ch11/shloka1.lrc"
+    ],
+    "assets/lrc/ch11/shloka10 - 11.lrc": [
+        "assets/lrc/ch11/shloka10 - 11.lrc"
+    ],
+    "assets/lrc/ch11/shloka12.lrc": [
+        "assets/lrc/ch11/shloka12.lrc"
+    ],
+    "assets/lrc/ch11/shloka13.lrc": [
+        "assets/lrc/ch11/shloka13.lrc"
+    ],
+    "assets/lrc/ch11/shloka14.lrc": [
+        "assets/lrc/ch11/shloka14.lrc"
+    ],
+    "assets/lrc/ch11/shloka15.lrc": [
+        "assets/lrc/ch11/shloka15.lrc"
+    ],
+    "assets/lrc/ch11/shloka16.lrc": [
+        "assets/lrc/ch11/shloka16.lrc"
+    ],
+    "assets/lrc/ch11/shloka17.lrc": [
+        "assets/lrc/ch11/shloka17.lrc"
+    ],
+    "assets/lrc/ch11/shloka18.lrc": [
+        "assets/lrc/ch11/shloka18.lrc"
+    ],
+    "assets/lrc/ch11/shloka19.lrc": [
+        "assets/lrc/ch11/shloka19.lrc"
+    ],
+    "assets/lrc/ch11/shloka2.lrc": [
+        "assets/lrc/ch11/shloka2.lrc"
+    ],
+    "assets/lrc/ch11/shloka20.lrc": [
+        "assets/lrc/ch11/shloka20.lrc"
+    ],
+    "assets/lrc/ch11/shloka21.lrc": [
+        "assets/lrc/ch11/shloka21.lrc"
+    ],
+    "assets/lrc/ch11/shloka22.lrc": [
+        "assets/lrc/ch11/shloka22.lrc"
+    ],
+    "assets/lrc/ch11/shloka23.lrc": [
+        "assets/lrc/ch11/shloka23.lrc"
+    ],
+    "assets/lrc/ch11/shloka24.lrc": [
+        "assets/lrc/ch11/shloka24.lrc"
+    ],
+    "assets/lrc/ch11/shloka25.lrc": [
+        "assets/lrc/ch11/shloka25.lrc"
+    ],
+    "assets/lrc/ch11/shloka26 - 27.lrc": [
+        "assets/lrc/ch11/shloka26 - 27.lrc"
+    ],
+    "assets/lrc/ch11/shloka28 - 29.lrc": [
+        "assets/lrc/ch11/shloka28 - 29.lrc"
+    ],
+    "assets/lrc/ch11/shloka3.lrc": [
+        "assets/lrc/ch11/shloka3.lrc"
+    ],
+    "assets/lrc/ch11/shloka30.lrc": [
+        "assets/lrc/ch11/shloka30.lrc"
+    ],
+    "assets/lrc/ch11/shloka31.lrc": [
+        "assets/lrc/ch11/shloka31.lrc"
+    ],
+    "assets/lrc/ch11/shloka32.lrc": [
+        "assets/lrc/ch11/shloka32.lrc"
+    ],
+    "assets/lrc/ch11/shloka33.lrc": [
+        "assets/lrc/ch11/shloka33.lrc"
+    ],
+    "assets/lrc/ch11/shloka34.lrc": [
+        "assets/lrc/ch11/shloka34.lrc"
+    ],
+    "assets/lrc/ch11/shloka35.lrc": [
+        "assets/lrc/ch11/shloka35.lrc"
+    ],
+    "assets/lrc/ch11/shloka36.lrc": [
+        "assets/lrc/ch11/shloka36.lrc"
+    ],
+    "assets/lrc/ch11/shloka37.lrc": [
+        "assets/lrc/ch11/shloka37.lrc"
+    ],
+    "assets/lrc/ch11/shloka38.lrc": [
+        "assets/lrc/ch11/shloka38.lrc"
+    ],
+    "assets/lrc/ch11/shloka39.lrc": [
+        "assets/lrc/ch11/shloka39.lrc"
+    ],
+    "assets/lrc/ch11/shloka4.lrc": [
+        "assets/lrc/ch11/shloka4.lrc"
+    ],
+    "assets/lrc/ch11/shloka40.lrc": [
+        "assets/lrc/ch11/shloka40.lrc"
+    ],
+    "assets/lrc/ch11/shloka41 - 42.lrc": [
+        "assets/lrc/ch11/shloka41 - 42.lrc"
+    ],
+    "assets/lrc/ch11/shloka43.lrc": [
+        "assets/lrc/ch11/shloka43.lrc"
+    ],
+    "assets/lrc/ch11/shloka44.lrc": [
+        "assets/lrc/ch11/shloka44.lrc"
+    ],
+    "assets/lrc/ch11/shloka45.lrc": [
+        "assets/lrc/ch11/shloka45.lrc"
+    ],
+    "assets/lrc/ch11/shloka46.lrc": [
+        "assets/lrc/ch11/shloka46.lrc"
+    ],
+    "assets/lrc/ch11/shloka47.lrc": [
+        "assets/lrc/ch11/shloka47.lrc"
+    ],
+    "assets/lrc/ch11/shloka48.lrc": [
+        "assets/lrc/ch11/shloka48.lrc"
+    ],
+    "assets/lrc/ch11/shloka49.lrc": [
+        "assets/lrc/ch11/shloka49.lrc"
+    ],
+    "assets/lrc/ch11/shloka5.lrc": [
+        "assets/lrc/ch11/shloka5.lrc"
+    ],
+    "assets/lrc/ch11/shloka50.lrc": [
+        "assets/lrc/ch11/shloka50.lrc"
+    ],
+    "assets/lrc/ch11/shloka51.lrc": [
+        "assets/lrc/ch11/shloka51.lrc"
+    ],
+    "assets/lrc/ch11/shloka52 - 53.lrc": [
+        "assets/lrc/ch11/shloka52 - 53.lrc"
+    ],
+    "assets/lrc/ch11/shloka54.lrc": [
+        "assets/lrc/ch11/shloka54.lrc"
+    ],
+    "assets/lrc/ch11/shloka55.lrc": [
+        "assets/lrc/ch11/shloka55.lrc"
+    ],
+    "assets/lrc/ch11/shloka6.lrc": [
+        "assets/lrc/ch11/shloka6.lrc"
+    ],
+    "assets/lrc/ch11/shloka7.lrc": [
+        "assets/lrc/ch11/shloka7.lrc"
+    ],
+    "assets/lrc/ch11/shloka8.lrc": [
+        "assets/lrc/ch11/shloka8.lrc"
+    ],
+    "assets/lrc/ch11/shloka9.lrc": [
+        "assets/lrc/ch11/shloka9.lrc"
+    ],
+    "assets/lrc/ch12/shloka1.lrc": [
+        "assets/lrc/ch12/shloka1.lrc"
+    ],
+    "assets/lrc/ch12/shloka10.lrc": [
+        "assets/lrc/ch12/shloka10.lrc"
+    ],
+    "assets/lrc/ch12/shloka11.lrc": [
+        "assets/lrc/ch12/shloka11.lrc"
+    ],
+    "assets/lrc/ch12/shloka12.lrc": [
+        "assets/lrc/ch12/shloka12.lrc"
+    ],
+    "assets/lrc/ch12/shloka13 - 14.lrc": [
+        "assets/lrc/ch12/shloka13 - 14.lrc"
+    ],
+    "assets/lrc/ch12/shloka15.lrc": [
+        "assets/lrc/ch12/shloka15.lrc"
+    ],
+    "assets/lrc/ch12/shloka16.lrc": [
+        "assets/lrc/ch12/shloka16.lrc"
+    ],
+    "assets/lrc/ch12/shloka17.lrc": [
+        "assets/lrc/ch12/shloka17.lrc"
+    ],
+    "assets/lrc/ch12/shloka18 - 19.lrc": [
+        "assets/lrc/ch12/shloka18 - 19.lrc"
+    ],
+    "assets/lrc/ch12/shloka2.lrc": [
+        "assets/lrc/ch12/shloka2.lrc"
+    ],
+    "assets/lrc/ch12/shloka20.lrc": [
+        "assets/lrc/ch12/shloka20.lrc"
+    ],
+    "assets/lrc/ch12/shloka3 - 4.lrc": [
+        "assets/lrc/ch12/shloka3 - 4.lrc"
+    ],
+    "assets/lrc/ch12/shloka5.lrc": [
+        "assets/lrc/ch12/shloka5.lrc"
+    ],
+    "assets/lrc/ch12/shloka6 - 7.lrc": [
+        "assets/lrc/ch12/shloka6 - 7.lrc"
+    ],
+    "assets/lrc/ch12/shloka8.lrc": [
+        "assets/lrc/ch12/shloka8.lrc"
+    ],
+    "assets/lrc/ch12/shloka9.lrc": [
+        "assets/lrc/ch12/shloka9.lrc"
+    ],
+    "assets/lrc/ch13/shloka1.lrc": [
+        "assets/lrc/ch13/shloka1.lrc"
+    ],
+    "assets/lrc/ch13/shloka13.lrc": [
+        "assets/lrc/ch13/shloka13.lrc"
+    ],
+    "assets/lrc/ch13/shloka14.lrc": [
+        "assets/lrc/ch13/shloka14.lrc"
+    ],
+    "assets/lrc/ch13/shloka15.lrc": [
+        "assets/lrc/ch13/shloka15.lrc"
+    ],
+    "assets/lrc/ch13/shloka16.lrc": [
+        "assets/lrc/ch13/shloka16.lrc"
+    ],
+    "assets/lrc/ch13/shloka17.lrc": [
+        "assets/lrc/ch13/shloka17.lrc"
+    ],
+    "assets/lrc/ch13/shloka18.lrc": [
+        "assets/lrc/ch13/shloka18.lrc"
+    ],
+    "assets/lrc/ch13/shloka19.lrc": [
+        "assets/lrc/ch13/shloka19.lrc"
+    ],
+    "assets/lrc/ch13/shloka2.lrc": [
+        "assets/lrc/ch13/shloka2.lrc"
+    ],
+    "assets/lrc/ch13/shloka20.lrc": [
+        "assets/lrc/ch13/shloka20.lrc"
+    ],
+    "assets/lrc/ch13/shloka21.lrc": [
+        "assets/lrc/ch13/shloka21.lrc"
+    ],
+    "assets/lrc/ch13/shloka22.lrc": [
+        "assets/lrc/ch13/shloka22.lrc"
+    ],
+    "assets/lrc/ch13/shloka23.lrc": [
+        "assets/lrc/ch13/shloka23.lrc"
+    ],
+    "assets/lrc/ch13/shloka24.lrc": [
+        "assets/lrc/ch13/shloka24.lrc"
+    ],
+    "assets/lrc/ch13/shloka25.lrc": [
+        "assets/lrc/ch13/shloka25.lrc"
+    ],
+    "assets/lrc/ch13/shloka26.lrc": [
+        "assets/lrc/ch13/shloka26.lrc"
+    ],
+    "assets/lrc/ch13/shloka27.lrc": [
+        "assets/lrc/ch13/shloka27.lrc"
+    ],
+    "assets/lrc/ch13/shloka28.lrc": [
+        "assets/lrc/ch13/shloka28.lrc"
+    ],
+    "assets/lrc/ch13/shloka29.lrc": [
+        "assets/lrc/ch13/shloka29.lrc"
+    ],
+    "assets/lrc/ch13/shloka3.lrc": [
+        "assets/lrc/ch13/shloka3.lrc"
+    ],
+    "assets/lrc/ch13/shloka30.lrc": [
+        "assets/lrc/ch13/shloka30.lrc"
+    ],
+    "assets/lrc/ch13/shloka31.lrc": [
+        "assets/lrc/ch13/shloka31.lrc"
+    ],
+    "assets/lrc/ch13/shloka32.lrc": [
+        "assets/lrc/ch13/shloka32.lrc"
+    ],
+    "assets/lrc/ch13/shloka33.lrc": [
+        "assets/lrc/ch13/shloka33.lrc"
+    ],
+    "assets/lrc/ch13/shloka34.lrc": [
+        "assets/lrc/ch13/shloka34.lrc"
+    ],
+    "assets/lrc/ch13/shloka35.lrc": [
+        "assets/lrc/ch13/shloka35.lrc"
+    ],
+    "assets/lrc/ch13/shloka4.lrc": [
+        "assets/lrc/ch13/shloka4.lrc"
+    ],
+    "assets/lrc/ch13/shloka5.lrc": [
+        "assets/lrc/ch13/shloka5.lrc"
+    ],
+    "assets/lrc/ch13/shloka6.lrc": [
+        "assets/lrc/ch13/shloka6.lrc"
+    ],
+    "assets/lrc/ch13/shloka7.lrc": [
+        "assets/lrc/ch13/shloka7.lrc"
+    ],
+    "assets/lrc/ch13/shloka8 - 12.lrc": [
+        "assets/lrc/ch13/shloka8 - 12.lrc"
+    ],
+    "assets/lrc/ch14/shloka1.lrc": [
+        "assets/lrc/ch14/shloka1.lrc"
+    ],
+    "assets/lrc/ch14/shloka10.lrc": [
+        "assets/lrc/ch14/shloka10.lrc"
+    ],
+    "assets/lrc/ch14/shloka11 - 13.lrc": [
+        "assets/lrc/ch14/shloka11 - 13.lrc"
+    ],
+    "assets/lrc/ch14/shloka14 - 15.lrc": [
+        "assets/lrc/ch14/shloka14 - 15.lrc"
+    ],
+    "assets/lrc/ch14/shloka16.lrc": [
+        "assets/lrc/ch14/shloka16.lrc"
+    ],
+    "assets/lrc/ch14/shloka17.lrc": [
+        "assets/lrc/ch14/shloka17.lrc"
+    ],
+    "assets/lrc/ch14/shloka18.lrc": [
+        "assets/lrc/ch14/shloka18.lrc"
+    ],
+    "assets/lrc/ch14/shloka19.lrc": [
+        "assets/lrc/ch14/shloka19.lrc"
+    ],
+    "assets/lrc/ch14/shloka2.lrc": [
+        "assets/lrc/ch14/shloka2.lrc"
+    ],
+    "assets/lrc/ch14/shloka20.lrc": [
+        "assets/lrc/ch14/shloka20.lrc"
+    ],
+    "assets/lrc/ch14/shloka21.lrc": [
+        "assets/lrc/ch14/shloka21.lrc"
+    ],
+    "assets/lrc/ch14/shloka22 - 23.lrc": [
+        "assets/lrc/ch14/shloka22 - 23.lrc"
+    ],
+    "assets/lrc/ch14/shloka24 - 25.lrc": [
+        "assets/lrc/ch14/shloka24 - 25.lrc"
+    ],
+    "assets/lrc/ch14/shloka26.lrc": [
+        "assets/lrc/ch14/shloka26.lrc"
+    ],
+    "assets/lrc/ch14/shloka27.lrc": [
+        "assets/lrc/ch14/shloka27.lrc"
+    ],
+    "assets/lrc/ch14/shloka3 - 4.lrc": [
+        "assets/lrc/ch14/shloka3 - 4.lrc"
+    ],
+    "assets/lrc/ch14/shloka5.lrc": [
+        "assets/lrc/ch14/shloka5.lrc"
+    ],
+    "assets/lrc/ch14/shloka6.lrc": [
+        "assets/lrc/ch14/shloka6.lrc"
+    ],
+    "assets/lrc/ch14/shloka7.lrc": [
+        "assets/lrc/ch14/shloka7.lrc"
+    ],
+    "assets/lrc/ch14/shloka8.lrc": [
+        "assets/lrc/ch14/shloka8.lrc"
+    ],
+    "assets/lrc/ch14/shloka9.lrc": [
+        "assets/lrc/ch14/shloka9.lrc"
+    ],
+    "assets/lrc/ch15/shloka1.lrc": [
+        "assets/lrc/ch15/shloka1.lrc"
+    ],
+    "assets/lrc/ch15/shloka10.lrc": [
+        "assets/lrc/ch15/shloka10.lrc"
+    ],
+    "assets/lrc/ch15/shloka11.lrc": [
+        "assets/lrc/ch15/shloka11.lrc"
+    ],
+    "assets/lrc/ch15/shloka12.lrc": [
+        "assets/lrc/ch15/shloka12.lrc"
+    ],
+    "assets/lrc/ch15/shloka13.lrc": [
+        "assets/lrc/ch15/shloka13.lrc"
+    ],
+    "assets/lrc/ch15/shloka14.lrc": [
+        "assets/lrc/ch15/shloka14.lrc"
+    ],
+    "assets/lrc/ch15/shloka15.lrc": [
+        "assets/lrc/ch15/shloka15.lrc"
+    ],
+    "assets/lrc/ch15/shloka16.lrc": [
+        "assets/lrc/ch15/shloka16.lrc"
+    ],
+    "assets/lrc/ch15/shloka17.lrc": [
+        "assets/lrc/ch15/shloka17.lrc"
+    ],
+    "assets/lrc/ch15/shloka18.lrc": [
+        "assets/lrc/ch15/shloka18.lrc"
+    ],
+    "assets/lrc/ch15/shloka19.lrc": [
+        "assets/lrc/ch15/shloka19.lrc"
+    ],
+    "assets/lrc/ch15/shloka2.lrc": [
+        "assets/lrc/ch15/shloka2.lrc"
+    ],
+    "assets/lrc/ch15/shloka20.lrc": [
+        "assets/lrc/ch15/shloka20.lrc"
+    ],
+    "assets/lrc/ch15/shloka3 - 4.lrc": [
+        "assets/lrc/ch15/shloka3 - 4.lrc"
+    ],
+    "assets/lrc/ch15/shloka5.lrc": [
+        "assets/lrc/ch15/shloka5.lrc"
+    ],
+    "assets/lrc/ch15/shloka6.lrc": [
+        "assets/lrc/ch15/shloka6.lrc"
+    ],
+    "assets/lrc/ch15/shloka7.lrc": [
+        "assets/lrc/ch15/shloka7.lrc"
+    ],
+    "assets/lrc/ch15/shloka8.lrc": [
+        "assets/lrc/ch15/shloka8.lrc"
+    ],
+    "assets/lrc/ch15/shloka9.lrc": [
+        "assets/lrc/ch15/shloka9.lrc"
+    ],
+    "assets/lrc/ch16/shloka1 - 3.lrc": [
+        "assets/lrc/ch16/shloka1 - 3.lrc"
+    ],
+    "assets/lrc/ch16/shloka10.lrc": [
+        "assets/lrc/ch16/shloka10.lrc"
+    ],
+    "assets/lrc/ch16/shloka11.lrc": [
+        "assets/lrc/ch16/shloka11.lrc"
+    ],
+    "assets/lrc/ch16/shloka12.lrc": [
+        "assets/lrc/ch16/shloka12.lrc"
+    ],
+    "assets/lrc/ch16/shloka13 - 15.lrc": [
+        "assets/lrc/ch16/shloka13 - 15.lrc"
+    ],
+    "assets/lrc/ch16/shloka16.lrc": [
+        "assets/lrc/ch16/shloka16.lrc"
+    ],
+    "assets/lrc/ch16/shloka17.lrc": [
+        "assets/lrc/ch16/shloka17.lrc"
+    ],
+    "assets/lrc/ch16/shloka18.lrc": [
+        "assets/lrc/ch16/shloka18.lrc"
+    ],
+    "assets/lrc/ch16/shloka19 - 20.lrc": [
+        "assets/lrc/ch16/shloka19 - 20.lrc"
+    ],
+    "assets/lrc/ch16/shloka21.lrc": [
+        "assets/lrc/ch16/shloka21.lrc"
+    ],
+    "assets/lrc/ch16/shloka22.lrc": [
+        "assets/lrc/ch16/shloka22.lrc"
+    ],
+    "assets/lrc/ch16/shloka23.lrc": [
+        "assets/lrc/ch16/shloka23.lrc"
+    ],
+    "assets/lrc/ch16/shloka24.lrc": [
+        "assets/lrc/ch16/shloka24.lrc"
+    ],
+    "assets/lrc/ch16/shloka4.lrc": [
+        "assets/lrc/ch16/shloka4.lrc"
+    ],
+    "assets/lrc/ch16/shloka5.lrc": [
+        "assets/lrc/ch16/shloka5.lrc"
+    ],
+    "assets/lrc/ch16/shloka6.lrc": [
+        "assets/lrc/ch16/shloka6.lrc"
+    ],
+    "assets/lrc/ch16/shloka7.lrc": [
+        "assets/lrc/ch16/shloka7.lrc"
+    ],
+    "assets/lrc/ch16/shloka8.lrc": [
+        "assets/lrc/ch16/shloka8.lrc"
+    ],
+    "assets/lrc/ch16/shloka9.lrc": [
+        "assets/lrc/ch16/shloka9.lrc"
+    ],
+    "assets/lrc/ch17/shloka1.lrc": [
+        "assets/lrc/ch17/shloka1.lrc"
+    ],
+    "assets/lrc/ch17/shloka10.lrc": [
+        "assets/lrc/ch17/shloka10.lrc"
+    ],
+    "assets/lrc/ch17/shloka11.lrc": [
+        "assets/lrc/ch17/shloka11.lrc"
+    ],
+    "assets/lrc/ch17/shloka12.lrc": [
+        "assets/lrc/ch17/shloka12.lrc"
+    ],
+    "assets/lrc/ch17/shloka13.lrc": [
+        "assets/lrc/ch17/shloka13.lrc"
+    ],
+    "assets/lrc/ch17/shloka14.lrc": [
+        "assets/lrc/ch17/shloka14.lrc"
+    ],
+    "assets/lrc/ch17/shloka15.lrc": [
+        "assets/lrc/ch17/shloka15.lrc"
+    ],
+    "assets/lrc/ch17/shloka16.lrc": [
+        "assets/lrc/ch17/shloka16.lrc"
+    ],
+    "assets/lrc/ch17/shloka17.lrc": [
+        "assets/lrc/ch17/shloka17.lrc"
+    ],
+    "assets/lrc/ch17/shloka18.lrc": [
+        "assets/lrc/ch17/shloka18.lrc"
+    ],
+    "assets/lrc/ch17/shloka19.lrc": [
+        "assets/lrc/ch17/shloka19.lrc"
+    ],
+    "assets/lrc/ch17/shloka2.lrc": [
+        "assets/lrc/ch17/shloka2.lrc"
+    ],
+    "assets/lrc/ch17/shloka20.lrc": [
+        "assets/lrc/ch17/shloka20.lrc"
+    ],
+    "assets/lrc/ch17/shloka21.lrc": [
+        "assets/lrc/ch17/shloka21.lrc"
+    ],
+    "assets/lrc/ch17/shloka22.lrc": [
+        "assets/lrc/ch17/shloka22.lrc"
+    ],
+    "assets/lrc/ch17/shloka23.lrc": [
+        "assets/lrc/ch17/shloka23.lrc"
+    ],
+    "assets/lrc/ch17/shloka24.lrc": [
+        "assets/lrc/ch17/shloka24.lrc"
+    ],
+    "assets/lrc/ch17/shloka25.lrc": [
+        "assets/lrc/ch17/shloka25.lrc"
+    ],
+    "assets/lrc/ch17/shloka26 - 27.lrc": [
+        "assets/lrc/ch17/shloka26 - 27.lrc"
+    ],
+    "assets/lrc/ch17/shloka28.lrc": [
+        "assets/lrc/ch17/shloka28.lrc"
+    ],
+    "assets/lrc/ch17/shloka3.lrc": [
+        "assets/lrc/ch17/shloka3.lrc"
+    ],
+    "assets/lrc/ch17/shloka4.lrc": [
+        "assets/lrc/ch17/shloka4.lrc"
+    ],
+    "assets/lrc/ch17/shloka5 - 6.lrc": [
+        "assets/lrc/ch17/shloka5 - 6.lrc"
+    ],
+    "assets/lrc/ch17/shloka7.lrc": [
+        "assets/lrc/ch17/shloka7.lrc"
+    ],
+    "assets/lrc/ch17/shloka8.lrc": [
+        "assets/lrc/ch17/shloka8.lrc"
+    ],
+    "assets/lrc/ch17/shloka9.lrc": [
+        "assets/lrc/ch17/shloka9.lrc"
+    ],
+    "assets/lrc/ch18/shloka1.lrc": [
+        "assets/lrc/ch18/shloka1.lrc"
+    ],
+    "assets/lrc/ch18/shloka10.lrc": [
+        "assets/lrc/ch18/shloka10.lrc"
+    ],
+    "assets/lrc/ch18/shloka11.lrc": [
+        "assets/lrc/ch18/shloka11.lrc"
+    ],
+    "assets/lrc/ch18/shloka12.lrc": [
+        "assets/lrc/ch18/shloka12.lrc"
+    ],
+    "assets/lrc/ch18/shloka13.lrc": [
+        "assets/lrc/ch18/shloka13.lrc"
+    ],
+    "assets/lrc/ch18/shloka14.lrc": [
+        "assets/lrc/ch18/shloka14.lrc"
+    ],
+    "assets/lrc/ch18/shloka15 - 16.lrc": [
+        "assets/lrc/ch18/shloka15 - 16.lrc"
+    ],
+    "assets/lrc/ch18/shloka17.lrc": [
+        "assets/lrc/ch18/shloka17.lrc"
+    ],
+    "assets/lrc/ch18/shloka18.lrc": [
+        "assets/lrc/ch18/shloka18.lrc"
+    ],
+    "assets/lrc/ch18/shloka19.lrc": [
+        "assets/lrc/ch18/shloka19.lrc"
+    ],
+    "assets/lrc/ch18/shloka2.lrc": [
+        "assets/lrc/ch18/shloka2.lrc"
+    ],
+    "assets/lrc/ch18/shloka20.lrc": [
+        "assets/lrc/ch18/shloka20.lrc"
+    ],
+    "assets/lrc/ch18/shloka21.lrc": [
+        "assets/lrc/ch18/shloka21.lrc"
+    ],
+    "assets/lrc/ch18/shloka22.lrc": [
+        "assets/lrc/ch18/shloka22.lrc"
+    ],
+    "assets/lrc/ch18/shloka23.lrc": [
+        "assets/lrc/ch18/shloka23.lrc"
+    ],
+    "assets/lrc/ch18/shloka24.lrc": [
+        "assets/lrc/ch18/shloka24.lrc"
+    ],
+    "assets/lrc/ch18/shloka25.lrc": [
+        "assets/lrc/ch18/shloka25.lrc"
+    ],
+    "assets/lrc/ch18/shloka26.lrc": [
+        "assets/lrc/ch18/shloka26.lrc"
+    ],
+    "assets/lrc/ch18/shloka27.lrc": [
+        "assets/lrc/ch18/shloka27.lrc"
+    ],
+    "assets/lrc/ch18/shloka28.lrc": [
+        "assets/lrc/ch18/shloka28.lrc"
+    ],
+    "assets/lrc/ch18/shloka29.lrc": [
+        "assets/lrc/ch18/shloka29.lrc"
+    ],
+    "assets/lrc/ch18/shloka3.lrc": [
+        "assets/lrc/ch18/shloka3.lrc"
+    ],
+    "assets/lrc/ch18/shloka30.lrc": [
+        "assets/lrc/ch18/shloka30.lrc"
+    ],
+    "assets/lrc/ch18/shloka31.lrc": [
+        "assets/lrc/ch18/shloka31.lrc"
+    ],
+    "assets/lrc/ch18/shloka32.lrc": [
+        "assets/lrc/ch18/shloka32.lrc"
+    ],
+    "assets/lrc/ch18/shloka33.lrc": [
+        "assets/lrc/ch18/shloka33.lrc"
+    ],
+    "assets/lrc/ch18/shloka34.lrc": [
+        "assets/lrc/ch18/shloka34.lrc"
+    ],
+    "assets/lrc/ch18/shloka35.lrc": [
+        "assets/lrc/ch18/shloka35.lrc"
+    ],
+    "assets/lrc/ch18/shloka36.lrc": [
+        "assets/lrc/ch18/shloka36.lrc"
+    ],
+    "assets/lrc/ch18/shloka37.lrc": [
+        "assets/lrc/ch18/shloka37.lrc"
+    ],
+    "assets/lrc/ch18/shloka38.lrc": [
+        "assets/lrc/ch18/shloka38.lrc"
+    ],
+    "assets/lrc/ch18/shloka39.lrc": [
+        "assets/lrc/ch18/shloka39.lrc"
+    ],
+    "assets/lrc/ch18/shloka4.lrc": [
+        "assets/lrc/ch18/shloka4.lrc"
+    ],
+    "assets/lrc/ch18/shloka40.lrc": [
+        "assets/lrc/ch18/shloka40.lrc"
+    ],
+    "assets/lrc/ch18/shloka41.lrc": [
+        "assets/lrc/ch18/shloka41.lrc"
+    ],
+    "assets/lrc/ch18/shloka42.lrc": [
+        "assets/lrc/ch18/shloka42.lrc"
+    ],
+    "assets/lrc/ch18/shloka43.lrc": [
+        "assets/lrc/ch18/shloka43.lrc"
+    ],
+    "assets/lrc/ch18/shloka44.lrc": [
+        "assets/lrc/ch18/shloka44.lrc"
+    ],
+    "assets/lrc/ch18/shloka45.lrc": [
+        "assets/lrc/ch18/shloka45.lrc"
+    ],
+    "assets/lrc/ch18/shloka46.lrc": [
+        "assets/lrc/ch18/shloka46.lrc"
+    ],
+    "assets/lrc/ch18/shloka47.lrc": [
+        "assets/lrc/ch18/shloka47.lrc"
+    ],
+    "assets/lrc/ch18/shloka48.lrc": [
+        "assets/lrc/ch18/shloka48.lrc"
+    ],
+    "assets/lrc/ch18/shloka49.lrc": [
+        "assets/lrc/ch18/shloka49.lrc"
+    ],
+    "assets/lrc/ch18/shloka5.lrc": [
+        "assets/lrc/ch18/shloka5.lrc"
+    ],
+    "assets/lrc/ch18/shloka50.lrc": [
+        "assets/lrc/ch18/shloka50.lrc"
+    ],
+    "assets/lrc/ch18/shloka51 - 53.lrc": [
+        "assets/lrc/ch18/shloka51 - 53.lrc"
+    ],
+    "assets/lrc/ch18/shloka54.lrc": [
+        "assets/lrc/ch18/shloka54.lrc"
+    ],
+    "assets/lrc/ch18/shloka55.lrc": [
+        "assets/lrc/ch18/shloka55.lrc"
+    ],
+    "assets/lrc/ch18/shloka56.lrc": [
+        "assets/lrc/ch18/shloka56.lrc"
+    ],
+    "assets/lrc/ch18/shloka57.lrc": [
+        "assets/lrc/ch18/shloka57.lrc"
+    ],
+    "assets/lrc/ch18/shloka58.lrc": [
+        "assets/lrc/ch18/shloka58.lrc"
+    ],
+    "assets/lrc/ch18/shloka59.lrc": [
+        "assets/lrc/ch18/shloka59.lrc"
+    ],
+    "assets/lrc/ch18/shloka6.lrc": [
+        "assets/lrc/ch18/shloka6.lrc"
+    ],
+    "assets/lrc/ch18/shloka60.lrc": [
+        "assets/lrc/ch18/shloka60.lrc"
+    ],
+    "assets/lrc/ch18/shloka61.lrc": [
+        "assets/lrc/ch18/shloka61.lrc"
+    ],
+    "assets/lrc/ch18/shloka62.lrc": [
+        "assets/lrc/ch18/shloka62.lrc"
+    ],
+    "assets/lrc/ch18/shloka63.lrc": [
+        "assets/lrc/ch18/shloka63.lrc"
+    ],
+    "assets/lrc/ch18/shloka64.lrc": [
+        "assets/lrc/ch18/shloka64.lrc"
+    ],
+    "assets/lrc/ch18/shloka65.lrc": [
+        "assets/lrc/ch18/shloka65.lrc"
+    ],
+    "assets/lrc/ch18/shloka66.lrc": [
+        "assets/lrc/ch18/shloka66.lrc"
+    ],
+    "assets/lrc/ch18/shloka67.lrc": [
+        "assets/lrc/ch18/shloka67.lrc"
+    ],
+    "assets/lrc/ch18/shloka68.lrc": [
+        "assets/lrc/ch18/shloka68.lrc"
+    ],
+    "assets/lrc/ch18/shloka69.lrc": [
+        "assets/lrc/ch18/shloka69.lrc"
+    ],
+    "assets/lrc/ch18/shloka7.lrc": [
+        "assets/lrc/ch18/shloka7.lrc"
+    ],
+    "assets/lrc/ch18/shloka70.lrc": [
+        "assets/lrc/ch18/shloka70.lrc"
+    ],
+    "assets/lrc/ch18/shloka71.lrc": [
+        "assets/lrc/ch18/shloka71.lrc"
+    ],
+    "assets/lrc/ch18/shloka72.lrc": [
+        "assets/lrc/ch18/shloka72.lrc"
+    ],
+    "assets/lrc/ch18/shloka73.lrc": [
+        "assets/lrc/ch18/shloka73.lrc"
+    ],
+    "assets/lrc/ch18/shloka74.lrc": [
+        "assets/lrc/ch18/shloka74.lrc"
+    ],
+    "assets/lrc/ch18/shloka75.lrc": [
+        "assets/lrc/ch18/shloka75.lrc"
+    ],
+    "assets/lrc/ch18/shloka76.lrc": [
+        "assets/lrc/ch18/shloka76.lrc"
+    ],
+    "assets/lrc/ch18/shloka77.lrc": [
+        "assets/lrc/ch18/shloka77.lrc"
+    ],
+    "assets/lrc/ch18/shloka78.lrc": [
+        "assets/lrc/ch18/shloka78.lrc"
+    ],
+    "assets/lrc/ch18/shloka8.lrc": [
+        "assets/lrc/ch18/shloka8.lrc"
+    ],
+    "assets/lrc/ch18/shloka9.lrc": [
+        "assets/lrc/ch18/shloka9.lrc"
+    ],
+    "assets/lrc/ch2/shloka1.lrc": [
+        "assets/lrc/ch2/shloka1.lrc"
+    ],
+    "assets/lrc/ch2/shloka10.lrc": [
+        "assets/lrc/ch2/shloka10.lrc"
+    ],
+    "assets/lrc/ch2/shloka11.lrc": [
+        "assets/lrc/ch2/shloka11.lrc"
+    ],
+    "assets/lrc/ch2/shloka12.lrc": [
+        "assets/lrc/ch2/shloka12.lrc"
+    ],
+    "assets/lrc/ch2/shloka13.lrc": [
+        "assets/lrc/ch2/shloka13.lrc"
+    ],
+    "assets/lrc/ch2/shloka14.lrc": [
+        "assets/lrc/ch2/shloka14.lrc"
+    ],
+    "assets/lrc/ch2/shloka15.lrc": [
+        "assets/lrc/ch2/shloka15.lrc"
+    ],
+    "assets/lrc/ch2/shloka16.lrc": [
+        "assets/lrc/ch2/shloka16.lrc"
+    ],
+    "assets/lrc/ch2/shloka17.lrc": [
+        "assets/lrc/ch2/shloka17.lrc"
+    ],
+    "assets/lrc/ch2/shloka18.lrc": [
+        "assets/lrc/ch2/shloka18.lrc"
+    ],
+    "assets/lrc/ch2/shloka19.lrc": [
+        "assets/lrc/ch2/shloka19.lrc"
+    ],
+    "assets/lrc/ch2/shloka2.lrc": [
+        "assets/lrc/ch2/shloka2.lrc"
+    ],
+    "assets/lrc/ch2/shloka20.lrc": [
+        "assets/lrc/ch2/shloka20.lrc"
+    ],
+    "assets/lrc/ch2/shloka21.lrc": [
+        "assets/lrc/ch2/shloka21.lrc"
+    ],
+    "assets/lrc/ch2/shloka22.lrc": [
+        "assets/lrc/ch2/shloka22.lrc"
+    ],
+    "assets/lrc/ch2/shloka23.lrc": [
+        "assets/lrc/ch2/shloka23.lrc"
+    ],
+    "assets/lrc/ch2/shloka24.lrc": [
+        "assets/lrc/ch2/shloka24.lrc"
+    ],
+    "assets/lrc/ch2/shloka25.lrc": [
+        "assets/lrc/ch2/shloka25.lrc"
+    ],
+    "assets/lrc/ch2/shloka26.lrc": [
+        "assets/lrc/ch2/shloka26.lrc"
+    ],
+    "assets/lrc/ch2/shloka27.lrc": [
+        "assets/lrc/ch2/shloka27.lrc"
+    ],
+    "assets/lrc/ch2/shloka28.lrc": [
+        "assets/lrc/ch2/shloka28.lrc"
+    ],
+    "assets/lrc/ch2/shloka29.lrc": [
+        "assets/lrc/ch2/shloka29.lrc"
+    ],
+    "assets/lrc/ch2/shloka3.lrc": [
+        "assets/lrc/ch2/shloka3.lrc"
+    ],
+    "assets/lrc/ch2/shloka30.lrc": [
+        "assets/lrc/ch2/shloka30.lrc"
+    ],
+    "assets/lrc/ch2/shloka31.lrc": [
+        "assets/lrc/ch2/shloka31.lrc"
+    ],
+    "assets/lrc/ch2/shloka32.lrc": [
+        "assets/lrc/ch2/shloka32.lrc"
+    ],
+    "assets/lrc/ch2/shloka33.lrc": [
+        "assets/lrc/ch2/shloka33.lrc"
+    ],
+    "assets/lrc/ch2/shloka34.lrc": [
+        "assets/lrc/ch2/shloka34.lrc"
+    ],
+    "assets/lrc/ch2/shloka35.lrc": [
+        "assets/lrc/ch2/shloka35.lrc"
+    ],
+    "assets/lrc/ch2/shloka36.lrc": [
+        "assets/lrc/ch2/shloka36.lrc"
+    ],
+    "assets/lrc/ch2/shloka37.lrc": [
+        "assets/lrc/ch2/shloka37.lrc"
+    ],
+    "assets/lrc/ch2/shloka38.lrc": [
+        "assets/lrc/ch2/shloka38.lrc"
+    ],
+    "assets/lrc/ch2/shloka39.lrc": [
+        "assets/lrc/ch2/shloka39.lrc"
+    ],
+    "assets/lrc/ch2/shloka4.lrc": [
+        "assets/lrc/ch2/shloka4.lrc"
+    ],
+    "assets/lrc/ch2/shloka40.lrc": [
+        "assets/lrc/ch2/shloka40.lrc"
+    ],
+    "assets/lrc/ch2/shloka41.lrc": [
+        "assets/lrc/ch2/shloka41.lrc"
+    ],
+    "assets/lrc/ch2/shloka42 - 43.lrc": [
+        "assets/lrc/ch2/shloka42 - 43.lrc"
+    ],
+    "assets/lrc/ch2/shloka44.lrc": [
+        "assets/lrc/ch2/shloka44.lrc"
+    ],
+    "assets/lrc/ch2/shloka45.lrc": [
+        "assets/lrc/ch2/shloka45.lrc"
+    ],
+    "assets/lrc/ch2/shloka46.lrc": [
+        "assets/lrc/ch2/shloka46.lrc"
+    ],
+    "assets/lrc/ch2/shloka47.lrc": [
+        "assets/lrc/ch2/shloka47.lrc"
+    ],
+    "assets/lrc/ch2/shloka48.lrc": [
+        "assets/lrc/ch2/shloka48.lrc"
+    ],
+    "assets/lrc/ch2/shloka49.lrc": [
+        "assets/lrc/ch2/shloka49.lrc"
+    ],
+    "assets/lrc/ch2/shloka5.lrc": [
+        "assets/lrc/ch2/shloka5.lrc"
+    ],
+    "assets/lrc/ch2/shloka50.lrc": [
+        "assets/lrc/ch2/shloka50.lrc"
+    ],
+    "assets/lrc/ch2/shloka51.lrc": [
+        "assets/lrc/ch2/shloka51.lrc"
+    ],
+    "assets/lrc/ch2/shloka52.lrc": [
+        "assets/lrc/ch2/shloka52.lrc"
+    ],
+    "assets/lrc/ch2/shloka53.lrc": [
+        "assets/lrc/ch2/shloka53.lrc"
+    ],
+    "assets/lrc/ch2/shloka54.lrc": [
+        "assets/lrc/ch2/shloka54.lrc"
+    ],
+    "assets/lrc/ch2/shloka55.lrc": [
+        "assets/lrc/ch2/shloka55.lrc"
+    ],
+    "assets/lrc/ch2/shloka56.lrc": [
+        "assets/lrc/ch2/shloka56.lrc"
+    ],
+    "assets/lrc/ch2/shloka57.lrc": [
+        "assets/lrc/ch2/shloka57.lrc"
+    ],
+    "assets/lrc/ch2/shloka58.lrc": [
+        "assets/lrc/ch2/shloka58.lrc"
+    ],
+    "assets/lrc/ch2/shloka59.lrc": [
+        "assets/lrc/ch2/shloka59.lrc"
+    ],
+    "assets/lrc/ch2/shloka6.lrc": [
+        "assets/lrc/ch2/shloka6.lrc"
+    ],
+    "assets/lrc/ch2/shloka60.lrc": [
+        "assets/lrc/ch2/shloka60.lrc"
+    ],
+    "assets/lrc/ch2/shloka61.lrc": [
+        "assets/lrc/ch2/shloka61.lrc"
+    ],
+    "assets/lrc/ch2/shloka62.lrc": [
+        "assets/lrc/ch2/shloka62.lrc"
+    ],
+    "assets/lrc/ch2/shloka63.lrc": [
+        "assets/lrc/ch2/shloka63.lrc"
+    ],
+    "assets/lrc/ch2/shloka64.lrc": [
+        "assets/lrc/ch2/shloka64.lrc"
+    ],
+    "assets/lrc/ch2/shloka65.lrc": [
+        "assets/lrc/ch2/shloka65.lrc"
+    ],
+    "assets/lrc/ch2/shloka66.lrc": [
+        "assets/lrc/ch2/shloka66.lrc"
+    ],
+    "assets/lrc/ch2/shloka67.lrc": [
+        "assets/lrc/ch2/shloka67.lrc"
+    ],
+    "assets/lrc/ch2/shloka68.lrc": [
+        "assets/lrc/ch2/shloka68.lrc"
+    ],
+    "assets/lrc/ch2/shloka69.lrc": [
+        "assets/lrc/ch2/shloka69.lrc"
+    ],
+    "assets/lrc/ch2/shloka7.lrc": [
+        "assets/lrc/ch2/shloka7.lrc"
+    ],
+    "assets/lrc/ch2/shloka70.lrc": [
+        "assets/lrc/ch2/shloka70.lrc"
+    ],
+    "assets/lrc/ch2/shloka71.lrc": [
+        "assets/lrc/ch2/shloka71.lrc"
+    ],
+    "assets/lrc/ch2/shloka72.lrc": [
+        "assets/lrc/ch2/shloka72.lrc"
+    ],
+    "assets/lrc/ch2/shloka8.lrc": [
+        "assets/lrc/ch2/shloka8.lrc"
+    ],
+    "assets/lrc/ch2/shloka9.lrc": [
+        "assets/lrc/ch2/shloka9.lrc"
+    ],
+    "assets/lrc/ch3/shloka1 - 2.lrc": [
+        "assets/lrc/ch3/shloka1 - 2.lrc"
+    ],
+    "assets/lrc/ch3/shloka10.lrc": [
+        "assets/lrc/ch3/shloka10.lrc"
+    ],
+    "assets/lrc/ch3/shloka11.lrc": [
+        "assets/lrc/ch3/shloka11.lrc"
+    ],
+    "assets/lrc/ch3/shloka12.lrc": [
+        "assets/lrc/ch3/shloka12.lrc"
+    ],
+    "assets/lrc/ch3/shloka13.lrc": [
+        "assets/lrc/ch3/shloka13.lrc"
+    ],
+    "assets/lrc/ch3/shloka14.lrc": [
+        "assets/lrc/ch3/shloka14.lrc"
+    ],
+    "assets/lrc/ch3/shloka15.lrc": [
+        "assets/lrc/ch3/shloka15.lrc"
+    ],
+    "assets/lrc/ch3/shloka16.lrc": [
+        "assets/lrc/ch3/shloka16.lrc"
+    ],
+    "assets/lrc/ch3/shloka17.lrc": [
+        "assets/lrc/ch3/shloka17.lrc"
+    ],
+    "assets/lrc/ch3/shloka18.lrc": [
+        "assets/lrc/ch3/shloka18.lrc"
+    ],
+    "assets/lrc/ch3/shloka19.lrc": [
+        "assets/lrc/ch3/shloka19.lrc"
+    ],
+    "assets/lrc/ch3/shloka20 - 21.lrc": [
+        "assets/lrc/ch3/shloka20 - 21.lrc"
+    ],
+    "assets/lrc/ch3/shloka22.lrc": [
+        "assets/lrc/ch3/shloka22.lrc"
+    ],
+    "assets/lrc/ch3/shloka23.lrc": [
+        "assets/lrc/ch3/shloka23.lrc"
+    ],
+    "assets/lrc/ch3/shloka24.lrc": [
+        "assets/lrc/ch3/shloka24.lrc"
+    ],
+    "assets/lrc/ch3/shloka25.lrc": [
+        "assets/lrc/ch3/shloka25.lrc"
+    ],
+    "assets/lrc/ch3/shloka26.lrc": [
+        "assets/lrc/ch3/shloka26.lrc"
+    ],
+    "assets/lrc/ch3/shloka27.lrc": [
+        "assets/lrc/ch3/shloka27.lrc"
+    ],
+    "assets/lrc/ch3/shloka28.lrc": [
+        "assets/lrc/ch3/shloka28.lrc"
+    ],
+    "assets/lrc/ch3/shloka29.lrc": [
+        "assets/lrc/ch3/shloka29.lrc"
+    ],
+    "assets/lrc/ch3/shloka3.lrc": [
+        "assets/lrc/ch3/shloka3.lrc"
+    ],
+    "assets/lrc/ch3/shloka30.lrc": [
+        "assets/lrc/ch3/shloka30.lrc"
+    ],
+    "assets/lrc/ch3/shloka31.lrc": [
+        "assets/lrc/ch3/shloka31.lrc"
+    ],
+    "assets/lrc/ch3/shloka32.lrc": [
+        "assets/lrc/ch3/shloka32.lrc"
+    ],
+    "assets/lrc/ch3/shloka33.lrc": [
+        "assets/lrc/ch3/shloka33.lrc"
+    ],
+    "assets/lrc/ch3/shloka34.lrc": [
+        "assets/lrc/ch3/shloka34.lrc"
+    ],
+    "assets/lrc/ch3/shloka35.lrc": [
+        "assets/lrc/ch3/shloka35.lrc"
+    ],
+    "assets/lrc/ch3/shloka36.lrc": [
+        "assets/lrc/ch3/shloka36.lrc"
+    ],
+    "assets/lrc/ch3/shloka37.lrc": [
+        "assets/lrc/ch3/shloka37.lrc"
+    ],
+    "assets/lrc/ch3/shloka38.lrc": [
+        "assets/lrc/ch3/shloka38.lrc"
+    ],
+    "assets/lrc/ch3/shloka39.lrc": [
+        "assets/lrc/ch3/shloka39.lrc"
+    ],
+    "assets/lrc/ch3/shloka4.lrc": [
+        "assets/lrc/ch3/shloka4.lrc"
+    ],
+    "assets/lrc/ch3/shloka40.lrc": [
+        "assets/lrc/ch3/shloka40.lrc"
+    ],
+    "assets/lrc/ch3/shloka41.lrc": [
+        "assets/lrc/ch3/shloka41.lrc"
+    ],
+    "assets/lrc/ch3/shloka42.lrc": [
+        "assets/lrc/ch3/shloka42.lrc"
+    ],
+    "assets/lrc/ch3/shloka43.lrc": [
+        "assets/lrc/ch3/shloka43.lrc"
+    ],
+    "assets/lrc/ch3/shloka5.lrc": [
+        "assets/lrc/ch3/shloka5.lrc"
+    ],
+    "assets/lrc/ch3/shloka6.lrc": [
+        "assets/lrc/ch3/shloka6.lrc"
+    ],
+    "assets/lrc/ch3/shloka7.lrc": [
+        "assets/lrc/ch3/shloka7.lrc"
+    ],
+    "assets/lrc/ch3/shloka8.lrc": [
+        "assets/lrc/ch3/shloka8.lrc"
+    ],
+    "assets/lrc/ch3/shloka9.lrc": [
+        "assets/lrc/ch3/shloka9.lrc"
+    ],
+    "assets/lrc/ch4/shloka1.lrc": [
+        "assets/lrc/ch4/shloka1.lrc"
+    ],
+    "assets/lrc/ch4/shloka10.lrc": [
+        "assets/lrc/ch4/shloka10.lrc"
+    ],
+    "assets/lrc/ch4/shloka11.lrc": [
+        "assets/lrc/ch4/shloka11.lrc"
+    ],
+    "assets/lrc/ch4/shloka12.lrc": [
+        "assets/lrc/ch4/shloka12.lrc"
+    ],
+    "assets/lrc/ch4/shloka13.lrc": [
+        "assets/lrc/ch4/shloka13.lrc"
+    ],
+    "assets/lrc/ch4/shloka14.lrc": [
+        "assets/lrc/ch4/shloka14.lrc"
+    ],
+    "assets/lrc/ch4/shloka15.lrc": [
+        "assets/lrc/ch4/shloka15.lrc"
+    ],
+    "assets/lrc/ch4/shloka16.lrc": [
+        "assets/lrc/ch4/shloka16.lrc"
+    ],
+    "assets/lrc/ch4/shloka17.lrc": [
+        "assets/lrc/ch4/shloka17.lrc"
+    ],
+    "assets/lrc/ch4/shloka18.lrc": [
+        "assets/lrc/ch4/shloka18.lrc"
+    ],
+    "assets/lrc/ch4/shloka19.lrc": [
+        "assets/lrc/ch4/shloka19.lrc"
+    ],
+    "assets/lrc/ch4/shloka2.lrc": [
+        "assets/lrc/ch4/shloka2.lrc"
+    ],
+    "assets/lrc/ch4/shloka20.lrc": [
+        "assets/lrc/ch4/shloka20.lrc"
+    ],
+    "assets/lrc/ch4/shloka21.lrc": [
+        "assets/lrc/ch4/shloka21.lrc"
+    ],
+    "assets/lrc/ch4/shloka22.lrc": [
+        "assets/lrc/ch4/shloka22.lrc"
+    ],
+    "assets/lrc/ch4/shloka23.lrc": [
+        "assets/lrc/ch4/shloka23.lrc"
+    ],
+    "assets/lrc/ch4/shloka24.lrc": [
+        "assets/lrc/ch4/shloka24.lrc"
+    ],
+    "assets/lrc/ch4/shloka25.lrc": [
+        "assets/lrc/ch4/shloka25.lrc"
+    ],
+    "assets/lrc/ch4/shloka26.lrc": [
+        "assets/lrc/ch4/shloka26.lrc"
+    ],
+    "assets/lrc/ch4/shloka27.lrc": [
+        "assets/lrc/ch4/shloka27.lrc"
+    ],
+    "assets/lrc/ch4/shloka28.lrc": [
+        "assets/lrc/ch4/shloka28.lrc"
+    ],
+    "assets/lrc/ch4/shloka29 - 30.lrc": [
+        "assets/lrc/ch4/shloka29 - 30.lrc"
+    ],
+    "assets/lrc/ch4/shloka3.lrc": [
+        "assets/lrc/ch4/shloka3.lrc"
+    ],
+    "assets/lrc/ch4/shloka31.lrc": [
+        "assets/lrc/ch4/shloka31.lrc"
+    ],
+    "assets/lrc/ch4/shloka32.lrc": [
+        "assets/lrc/ch4/shloka32.lrc"
+    ],
+    "assets/lrc/ch4/shloka33.lrc": [
+        "assets/lrc/ch4/shloka33.lrc"
+    ],
+    "assets/lrc/ch4/shloka34.lrc": [
+        "assets/lrc/ch4/shloka34.lrc"
+    ],
+    "assets/lrc/ch4/shloka35.lrc": [
+        "assets/lrc/ch4/shloka35.lrc"
+    ],
+    "assets/lrc/ch4/shloka36.lrc": [
+        "assets/lrc/ch4/shloka36.lrc"
+    ],
+    "assets/lrc/ch4/shloka37.lrc": [
+        "assets/lrc/ch4/shloka37.lrc"
+    ],
+    "assets/lrc/ch4/shloka38.lrc": [
+        "assets/lrc/ch4/shloka38.lrc"
+    ],
+    "assets/lrc/ch4/shloka39.lrc": [
+        "assets/lrc/ch4/shloka39.lrc"
+    ],
+    "assets/lrc/ch4/shloka4.lrc": [
+        "assets/lrc/ch4/shloka4.lrc"
+    ],
+    "assets/lrc/ch4/shloka40.lrc": [
+        "assets/lrc/ch4/shloka40.lrc"
+    ],
+    "assets/lrc/ch4/shloka41.lrc": [
+        "assets/lrc/ch4/shloka41.lrc"
+    ],
+    "assets/lrc/ch4/shloka42.lrc": [
+        "assets/lrc/ch4/shloka42.lrc"
+    ],
+    "assets/lrc/ch4/shloka5.lrc": [
+        "assets/lrc/ch4/shloka5.lrc"
+    ],
+    "assets/lrc/ch4/shloka6.lrc": [
+        "assets/lrc/ch4/shloka6.lrc"
+    ],
+    "assets/lrc/ch4/shloka7.lrc": [
+        "assets/lrc/ch4/shloka7.lrc"
+    ],
+    "assets/lrc/ch4/shloka8.lrc": [
+        "assets/lrc/ch4/shloka8.lrc"
+    ],
+    "assets/lrc/ch4/shloka9.lrc": [
+        "assets/lrc/ch4/shloka9.lrc"
+    ],
+    "assets/lrc/ch5/shloka1.lrc": [
+        "assets/lrc/ch5/shloka1.lrc"
+    ],
+    "assets/lrc/ch5/shloka10.lrc": [
+        "assets/lrc/ch5/shloka10.lrc"
+    ],
+    "assets/lrc/ch5/shloka11.lrc": [
+        "assets/lrc/ch5/shloka11.lrc"
+    ],
+    "assets/lrc/ch5/shloka12.lrc": [
+        "assets/lrc/ch5/shloka12.lrc"
+    ],
+    "assets/lrc/ch5/shloka13.lrc": [
+        "assets/lrc/ch5/shloka13.lrc"
+    ],
+    "assets/lrc/ch5/shloka14.lrc": [
+        "assets/lrc/ch5/shloka14.lrc"
+    ],
+    "assets/lrc/ch5/shloka15.lrc": [
+        "assets/lrc/ch5/shloka15.lrc"
+    ],
+    "assets/lrc/ch5/shloka16.lrc": [
+        "assets/lrc/ch5/shloka16.lrc"
+    ],
+    "assets/lrc/ch5/shloka17.lrc": [
+        "assets/lrc/ch5/shloka17.lrc"
+    ],
+    "assets/lrc/ch5/shloka18.lrc": [
+        "assets/lrc/ch5/shloka18.lrc"
+    ],
+    "assets/lrc/ch5/shloka19.lrc": [
+        "assets/lrc/ch5/shloka19.lrc"
+    ],
+    "assets/lrc/ch5/shloka2.lrc": [
+        "assets/lrc/ch5/shloka2.lrc"
+    ],
+    "assets/lrc/ch5/shloka20.lrc": [
+        "assets/lrc/ch5/shloka20.lrc"
+    ],
+    "assets/lrc/ch5/shloka21.lrc": [
+        "assets/lrc/ch5/shloka21.lrc"
+    ],
+    "assets/lrc/ch5/shloka22.lrc": [
+        "assets/lrc/ch5/shloka22.lrc"
+    ],
+    "assets/lrc/ch5/shloka23.lrc": [
+        "assets/lrc/ch5/shloka23.lrc"
+    ],
+    "assets/lrc/ch5/shloka24.lrc": [
+        "assets/lrc/ch5/shloka24.lrc"
+    ],
+    "assets/lrc/ch5/shloka25.lrc": [
+        "assets/lrc/ch5/shloka25.lrc"
+    ],
+    "assets/lrc/ch5/shloka26.lrc": [
+        "assets/lrc/ch5/shloka26.lrc"
+    ],
+    "assets/lrc/ch5/shloka27 - 28.lrc": [
+        "assets/lrc/ch5/shloka27 - 28.lrc"
+    ],
+    "assets/lrc/ch5/shloka29.lrc": [
+        "assets/lrc/ch5/shloka29.lrc"
+    ],
+    "assets/lrc/ch5/shloka3.lrc": [
+        "assets/lrc/ch5/shloka3.lrc"
+    ],
+    "assets/lrc/ch5/shloka4.lrc": [
+        "assets/lrc/ch5/shloka4.lrc"
+    ],
+    "assets/lrc/ch5/shloka5.lrc": [
+        "assets/lrc/ch5/shloka5.lrc"
+    ],
+    "assets/lrc/ch5/shloka6.lrc": [
+        "assets/lrc/ch5/shloka6.lrc"
+    ],
+    "assets/lrc/ch5/shloka7.lrc": [
+        "assets/lrc/ch5/shloka7.lrc"
+    ],
+    "assets/lrc/ch5/shloka8 - 9.lrc": [
+        "assets/lrc/ch5/shloka8 - 9.lrc"
+    ],
+    "assets/lrc/ch6/shloka1.lrc": [
+        "assets/lrc/ch6/shloka1.lrc"
+    ],
+    "assets/lrc/ch6/shloka10.lrc": [
+        "assets/lrc/ch6/shloka10.lrc"
+    ],
+    "assets/lrc/ch6/shloka11.lrc": [
+        "assets/lrc/ch6/shloka11.lrc"
+    ],
+    "assets/lrc/ch6/shloka12 - 13.lrc": [
+        "assets/lrc/ch6/shloka12 - 13.lrc"
+    ],
+    "assets/lrc/ch6/shloka14.lrc": [
+        "assets/lrc/ch6/shloka14.lrc"
+    ],
+    "assets/lrc/ch6/shloka15.lrc": [
+        "assets/lrc/ch6/shloka15.lrc"
+    ],
+    "assets/lrc/ch6/shloka16.lrc": [
+        "assets/lrc/ch6/shloka16.lrc"
+    ],
+    "assets/lrc/ch6/shloka17.lrc": [
+        "assets/lrc/ch6/shloka17.lrc"
+    ],
+    "assets/lrc/ch6/shloka18.lrc": [
+        "assets/lrc/ch6/shloka18.lrc"
+    ],
+    "assets/lrc/ch6/shloka19.lrc": [
+        "assets/lrc/ch6/shloka19.lrc"
+    ],
+    "assets/lrc/ch6/shloka2.lrc": [
+        "assets/lrc/ch6/shloka2.lrc"
+    ],
+    "assets/lrc/ch6/shloka20.lrc": [
+        "assets/lrc/ch6/shloka20.lrc"
+    ],
+    "assets/lrc/ch6/shloka21.lrc": [
+        "assets/lrc/ch6/shloka21.lrc"
+    ],
+    "assets/lrc/ch6/shloka22.lrc": [
+        "assets/lrc/ch6/shloka22.lrc"
+    ],
+    "assets/lrc/ch6/shloka23.lrc": [
+        "assets/lrc/ch6/shloka23.lrc"
+    ],
+    "assets/lrc/ch6/shloka24 - 25.lrc": [
+        "assets/lrc/ch6/shloka24 - 25.lrc"
+    ],
+    "assets/lrc/ch6/shloka26.lrc": [
+        "assets/lrc/ch6/shloka26.lrc"
+    ],
+    "assets/lrc/ch6/shloka27.lrc": [
+        "assets/lrc/ch6/shloka27.lrc"
+    ],
+    "assets/lrc/ch6/shloka28.lrc": [
+        "assets/lrc/ch6/shloka28.lrc"
+    ],
+    "assets/lrc/ch6/shloka29.lrc": [
+        "assets/lrc/ch6/shloka29.lrc"
+    ],
+    "assets/lrc/ch6/shloka3.lrc": [
+        "assets/lrc/ch6/shloka3.lrc"
+    ],
+    "assets/lrc/ch6/shloka30.lrc": [
+        "assets/lrc/ch6/shloka30.lrc"
+    ],
+    "assets/lrc/ch6/shloka31.lrc": [
+        "assets/lrc/ch6/shloka31.lrc"
+    ],
+    "assets/lrc/ch6/shloka32.lrc": [
+        "assets/lrc/ch6/shloka32.lrc"
+    ],
+    "assets/lrc/ch6/shloka33.lrc": [
+        "assets/lrc/ch6/shloka33.lrc"
+    ],
+    "assets/lrc/ch6/shloka34.lrc": [
+        "assets/lrc/ch6/shloka34.lrc"
+    ],
+    "assets/lrc/ch6/shloka35.lrc": [
+        "assets/lrc/ch6/shloka35.lrc"
+    ],
+    "assets/lrc/ch6/shloka36.lrc": [
+        "assets/lrc/ch6/shloka36.lrc"
+    ],
+    "assets/lrc/ch6/shloka37.lrc": [
+        "assets/lrc/ch6/shloka37.lrc"
+    ],
+    "assets/lrc/ch6/shloka38.lrc": [
+        "assets/lrc/ch6/shloka38.lrc"
+    ],
+    "assets/lrc/ch6/shloka39.lrc": [
+        "assets/lrc/ch6/shloka39.lrc"
+    ],
+    "assets/lrc/ch6/shloka4.lrc": [
+        "assets/lrc/ch6/shloka4.lrc"
+    ],
+    "assets/lrc/ch6/shloka40.lrc": [
+        "assets/lrc/ch6/shloka40.lrc"
+    ],
+    "assets/lrc/ch6/shloka41 - 42.lrc": [
+        "assets/lrc/ch6/shloka41 - 42.lrc"
+    ],
+    "assets/lrc/ch6/shloka43.lrc": [
+        "assets/lrc/ch6/shloka43.lrc"
+    ],
+    "assets/lrc/ch6/shloka44.lrc": [
+        "assets/lrc/ch6/shloka44.lrc"
+    ],
+    "assets/lrc/ch6/shloka45.lrc": [
+        "assets/lrc/ch6/shloka45.lrc"
+    ],
+    "assets/lrc/ch6/shloka46.lrc": [
+        "assets/lrc/ch6/shloka46.lrc"
+    ],
+    "assets/lrc/ch6/shloka47.lrc": [
+        "assets/lrc/ch6/shloka47.lrc"
+    ],
+    "assets/lrc/ch6/shloka5.lrc": [
+        "assets/lrc/ch6/shloka5.lrc"
+    ],
+    "assets/lrc/ch6/shloka6.lrc": [
+        "assets/lrc/ch6/shloka6.lrc"
+    ],
+    "assets/lrc/ch6/shloka7.lrc": [
+        "assets/lrc/ch6/shloka7.lrc"
+    ],
+    "assets/lrc/ch6/shloka8.lrc": [
+        "assets/lrc/ch6/shloka8.lrc"
+    ],
+    "assets/lrc/ch6/shloka9.lrc": [
+        "assets/lrc/ch6/shloka9.lrc"
+    ],
+    "assets/lrc/ch7/shloka1.lrc": [
+        "assets/lrc/ch7/shloka1.lrc"
+    ],
+    "assets/lrc/ch7/shloka10.lrc": [
+        "assets/lrc/ch7/shloka10.lrc"
+    ],
+    "assets/lrc/ch7/shloka11.lrc": [
+        "assets/lrc/ch7/shloka11.lrc"
+    ],
+    "assets/lrc/ch7/shloka12.lrc": [
+        "assets/lrc/ch7/shloka12.lrc"
+    ],
+    "assets/lrc/ch7/shloka13.lrc": [
+        "assets/lrc/ch7/shloka13.lrc"
+    ],
+    "assets/lrc/ch7/shloka14.lrc": [
+        "assets/lrc/ch7/shloka14.lrc"
+    ],
+    "assets/lrc/ch7/shloka15.lrc": [
+        "assets/lrc/ch7/shloka15.lrc"
+    ],
+    "assets/lrc/ch7/shloka16.lrc": [
+        "assets/lrc/ch7/shloka16.lrc"
+    ],
+    "assets/lrc/ch7/shloka17.lrc": [
+        "assets/lrc/ch7/shloka17.lrc"
+    ],
+    "assets/lrc/ch7/shloka18.lrc": [
+        "assets/lrc/ch7/shloka18.lrc"
+    ],
+    "assets/lrc/ch7/shloka19.lrc": [
+        "assets/lrc/ch7/shloka19.lrc"
+    ],
+    "assets/lrc/ch7/shloka2.lrc": [
+        "assets/lrc/ch7/shloka2.lrc"
+    ],
+    "assets/lrc/ch7/shloka20.lrc": [
+        "assets/lrc/ch7/shloka20.lrc"
+    ],
+    "assets/lrc/ch7/shloka21.lrc": [
+        "assets/lrc/ch7/shloka21.lrc"
+    ],
+    "assets/lrc/ch7/shloka22.lrc": [
+        "assets/lrc/ch7/shloka22.lrc"
+    ],
+    "assets/lrc/ch7/shloka23.lrc": [
+        "assets/lrc/ch7/shloka23.lrc"
+    ],
+    "assets/lrc/ch7/shloka24.lrc": [
+        "assets/lrc/ch7/shloka24.lrc"
+    ],
+    "assets/lrc/ch7/shloka25.lrc": [
+        "assets/lrc/ch7/shloka25.lrc"
+    ],
+    "assets/lrc/ch7/shloka26.lrc": [
+        "assets/lrc/ch7/shloka26.lrc"
+    ],
+    "assets/lrc/ch7/shloka27.lrc": [
+        "assets/lrc/ch7/shloka27.lrc"
+    ],
+    "assets/lrc/ch7/shloka28.lrc": [
+        "assets/lrc/ch7/shloka28.lrc"
+    ],
+    "assets/lrc/ch7/shloka29.lrc": [
+        "assets/lrc/ch7/shloka29.lrc"
+    ],
+    "assets/lrc/ch7/shloka3.lrc": [
+        "assets/lrc/ch7/shloka3.lrc"
+    ],
+    "assets/lrc/ch7/shloka30.lrc": [
+        "assets/lrc/ch7/shloka30.lrc"
+    ],
+    "assets/lrc/ch7/shloka4.lrc": [
+        "assets/lrc/ch7/shloka4.lrc"
+    ],
+    "assets/lrc/ch7/shloka5.lrc": [
+        "assets/lrc/ch7/shloka5.lrc"
+    ],
+    "assets/lrc/ch7/shloka6.lrc": [
+        "assets/lrc/ch7/shloka6.lrc"
+    ],
+    "assets/lrc/ch7/shloka7.lrc": [
+        "assets/lrc/ch7/shloka7.lrc"
+    ],
+    "assets/lrc/ch7/shloka8.lrc": [
+        "assets/lrc/ch7/shloka8.lrc"
+    ],
+    "assets/lrc/ch7/shloka9.lrc": [
+        "assets/lrc/ch7/shloka9.lrc"
+    ],
+    "assets/lrc/ch8/shloka1 - 2.lrc": [
+        "assets/lrc/ch8/shloka1 - 2.lrc"
+    ],
+    "assets/lrc/ch8/shloka11.lrc": [
+        "assets/lrc/ch8/shloka11.lrc"
+    ],
+    "assets/lrc/ch8/shloka12.lrc": [
+        "assets/lrc/ch8/shloka12.lrc"
+    ],
+    "assets/lrc/ch8/shloka13.lrc": [
+        "assets/lrc/ch8/shloka13.lrc"
+    ],
+    "assets/lrc/ch8/shloka14.lrc": [
+        "assets/lrc/ch8/shloka14.lrc"
+    ],
+    "assets/lrc/ch8/shloka15.lrc": [
+        "assets/lrc/ch8/shloka15.lrc"
+    ],
+    "assets/lrc/ch8/shloka16.lrc": [
+        "assets/lrc/ch8/shloka16.lrc"
+    ],
+    "assets/lrc/ch8/shloka17.lrc": [
+        "assets/lrc/ch8/shloka17.lrc"
+    ],
+    "assets/lrc/ch8/shloka18.lrc": [
+        "assets/lrc/ch8/shloka18.lrc"
+    ],
+    "assets/lrc/ch8/shloka19.lrc": [
+        "assets/lrc/ch8/shloka19.lrc"
+    ],
+    "assets/lrc/ch8/shloka20.lrc": [
+        "assets/lrc/ch8/shloka20.lrc"
+    ],
+    "assets/lrc/ch8/shloka21.lrc": [
+        "assets/lrc/ch8/shloka21.lrc"
+    ],
+    "assets/lrc/ch8/shloka22.lrc": [
+        "assets/lrc/ch8/shloka22.lrc"
+    ],
+    "assets/lrc/ch8/shloka23 - 26.lrc": [
+        "assets/lrc/ch8/shloka23 - 26.lrc"
+    ],
+    "assets/lrc/ch8/shloka27.lrc": [
+        "assets/lrc/ch8/shloka27.lrc"
+    ],
+    "assets/lrc/ch8/shloka28.lrc": [
+        "assets/lrc/ch8/shloka28.lrc"
+    ],
+    "assets/lrc/ch8/shloka3.lrc": [
+        "assets/lrc/ch8/shloka3.lrc"
+    ],
+    "assets/lrc/ch8/shloka4.lrc": [
+        "assets/lrc/ch8/shloka4.lrc"
+    ],
+    "assets/lrc/ch8/shloka5.lrc": [
+        "assets/lrc/ch8/shloka5.lrc"
+    ],
+    "assets/lrc/ch8/shloka6.lrc": [
+        "assets/lrc/ch8/shloka6.lrc"
+    ],
+    "assets/lrc/ch8/shloka7.lrc": [
+        "assets/lrc/ch8/shloka7.lrc"
+    ],
+    "assets/lrc/ch8/shloka8.lrc": [
+        "assets/lrc/ch8/shloka8.lrc"
+    ],
+    "assets/lrc/ch8/shloka9 - 10.lrc": [
+        "assets/lrc/ch8/shloka9 - 10.lrc"
+    ],
+    "assets/lrc/ch9/shloka1.lrc": [
+        "assets/lrc/ch9/shloka1.lrc"
+    ],
+    "assets/lrc/ch9/shloka10.lrc": [
+        "assets/lrc/ch9/shloka10.lrc"
+    ],
+    "assets/lrc/ch9/shloka11.lrc": [
+        "assets/lrc/ch9/shloka11.lrc"
+    ],
+    "assets/lrc/ch9/shloka12.lrc": [
+        "assets/lrc/ch9/shloka12.lrc"
+    ],
+    "assets/lrc/ch9/shloka13.lrc": [
+        "assets/lrc/ch9/shloka13.lrc"
+    ],
+    "assets/lrc/ch9/shloka14.lrc": [
+        "assets/lrc/ch9/shloka14.lrc"
+    ],
+    "assets/lrc/ch9/shloka15.lrc": [
+        "assets/lrc/ch9/shloka15.lrc"
+    ],
+    "assets/lrc/ch9/shloka16 - 17.lrc": [
+        "assets/lrc/ch9/shloka16 - 17.lrc"
+    ],
+    "assets/lrc/ch9/shloka18.lrc": [
+        "assets/lrc/ch9/shloka18.lrc"
+    ],
+    "assets/lrc/ch9/shloka19.lrc": [
+        "assets/lrc/ch9/shloka19.lrc"
+    ],
+    "assets/lrc/ch9/shloka2.lrc": [
+        "assets/lrc/ch9/shloka2.lrc"
+    ],
+    "assets/lrc/ch9/shloka20.lrc": [
+        "assets/lrc/ch9/shloka20.lrc"
+    ],
+    "assets/lrc/ch9/shloka21.lrc": [
+        "assets/lrc/ch9/shloka21.lrc"
+    ],
+    "assets/lrc/ch9/shloka22.lrc": [
+        "assets/lrc/ch9/shloka22.lrc"
+    ],
+    "assets/lrc/ch9/shloka23.lrc": [
+        "assets/lrc/ch9/shloka23.lrc"
+    ],
+    "assets/lrc/ch9/shloka24.lrc": [
+        "assets/lrc/ch9/shloka24.lrc"
+    ],
+    "assets/lrc/ch9/shloka25.lrc": [
+        "assets/lrc/ch9/shloka25.lrc"
+    ],
+    "assets/lrc/ch9/shloka26.lrc": [
+        "assets/lrc/ch9/shloka26.lrc"
+    ],
+    "assets/lrc/ch9/shloka27.lrc": [
+        "assets/lrc/ch9/shloka27.lrc"
+    ],
+    "assets/lrc/ch9/shloka28.lrc": [
+        "assets/lrc/ch9/shloka28.lrc"
+    ],
+    "assets/lrc/ch9/shloka29.lrc": [
+        "assets/lrc/ch9/shloka29.lrc"
+    ],
+    "assets/lrc/ch9/shloka3.lrc": [
+        "assets/lrc/ch9/shloka3.lrc"
+    ],
+    "assets/lrc/ch9/shloka30.lrc": [
+        "assets/lrc/ch9/shloka30.lrc"
+    ],
+    "assets/lrc/ch9/shloka31.lrc": [
+        "assets/lrc/ch9/shloka31.lrc"
+    ],
+    "assets/lrc/ch9/shloka32.lrc": [
+        "assets/lrc/ch9/shloka32.lrc"
+    ],
+    "assets/lrc/ch9/shloka33.lrc": [
+        "assets/lrc/ch9/shloka33.lrc"
+    ],
+    "assets/lrc/ch9/shloka34.lrc": [
+        "assets/lrc/ch9/shloka34.lrc"
+    ],
+    "assets/lrc/ch9/shloka4.lrc": [
+        "assets/lrc/ch9/shloka4.lrc"
+    ],
+    "assets/lrc/ch9/shloka5.lrc": [
+        "assets/lrc/ch9/shloka5.lrc"
+    ],
+    "assets/lrc/ch9/shloka6.lrc": [
+        "assets/lrc/ch9/shloka6.lrc"
+    ],
+    "assets/lrc/ch9/shloka7 - 8.lrc": [
+        "assets/lrc/ch9/shloka7 - 8.lrc"
+    ],
+    "assets/lrc/ch9/shloka9.lrc": [
+        "assets/lrc/ch9/shloka9.lrc"
+    ],
+    "assets/malaEndSound/conch_shell.mp3": [
+        "assets/malaEndSound/conch_shell.mp3"
+    ],
+    "assets/malaEndSound/temple_bell.mp3": [
+        "assets/malaEndSound/temple_bell.mp3"
+    ],
+    "assets/mala_bg.webp": [
+        "assets/mala_bg.webp"
+    ],
+    "assets/star0.webp": [
+        "assets/star0.webp"
+    ],
+    "assets/star1.webp": [
+        "assets/star1.webp"
+    ],
+    "assets/star2.webp": [
+        "assets/star2.webp"
+    ],
+    "assets/star3.webp": [
+        "assets/star3.webp"
+    ],
+    "assets/star4.webp": [
+        "assets/star4.webp"
+    ],
+    "assets/star5.webp": [
+        "assets/star5.webp"
+    ],
+    "packages/cupertino_icons/assets/CupertinoIcons.ttf": [
+        "packages/cupertino_icons/assets/CupertinoIcons.ttf"
+    ],
+    "packages/fluttertoast/assets/toastify.css": [
+        "packages/fluttertoast/assets/toastify.css"
+    ],
+    "packages/fluttertoast/assets/toastify.js": [
+        "packages/fluttertoast/assets/toastify.js"
+    ]
+}

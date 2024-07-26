@@ -1,0 +1,106 @@
+[
+    {
+        "family": "MaterialIcons",
+        "fonts": [
+            {
+                "asset": "fonts/MaterialIcons-Regular.otf"
+            }
+        ]
+    },
+    {
+        "family": "SpectralItalic",
+        "fonts": [
+            {
+                "asset": "assets/fonts/spectral_italic.ttf"
+            }
+        ]
+    },
+    {
+        "family": "MyCustomFontMallanna",
+        "fonts": [
+            {
+                "asset": "assets/fonts/mallanna_regular.ttf"
+            }
+        ]
+    },
+    {
+        "family": "MyCustomFontSpectral",
+        "fonts": [
+            {
+                "asset": "assets/fonts/spectral_regular.ttf"
+            }
+        ]
+    },
+    {
+        "family": "MyCustomFontSpectralItalicBold",
+        "fonts": [
+            {
+                "asset": "assets/fonts/spectral_semi_bold_italic.ttf"
+            }
+        ]
+    },
+    {
+        "family": "MyCustomFontSpectralBold",
+        "fonts": [
+            {
+                "asset": "assets/fonts/spectral_bold.ttf"
+            }
+        ]
+    },
+    {
+        "family": "MyCustomFontSpectralItalic",
+        "fonts": [
+            {
+                "asset": "assets/fonts/spectral_italic.ttf"
+            }
+        ]
+    },
+    {
+        "family": "mallanna_regular",
+        "fonts": [
+            {
+                "asset": "assets/fonts/mallanna_regular.ttf"
+            }
+        ]
+    },
+    {
+        "family": "spectral_bold",
+        "fonts": [
+            {
+                "asset": "assets/fonts/spectral_bold.ttf"
+            }
+        ]
+    },
+    {
+        "family": "spectral_italic",
+        "fonts": [
+            {
+                "asset": "assets/fonts/spectral_italic.ttf"
+            }
+        ]
+    },
+    {
+        "family": "spectral_regular",
+        "fonts": [
+            {
+                "asset": "assets/fonts/spectral_regular.ttf"
+            }
+        ]
+    },
+    {
+        "family": "spectral_semi_bold_italic",
+        "fonts": [
+            {
+                "asset": "assets/fonts/spectral_semi_bold_italic.ttf"
+            }
+        ]
+    },
+    {
+        "family": "packages/cupertino_icons/CupertinoIcons",
+        "fonts": [
+            {
+                "asset": "packages/cupertino_icons/assets/CupertinoIcons.ttf"
+            }
+        ]
+    }
+]
